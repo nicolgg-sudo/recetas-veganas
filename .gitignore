@@ -1,0 +1,18 @@
+node_modules/
+research/
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+verde-a-mano-*.json
+lista-de-compras*.txt
+# Keep the shareable project focused on runtime and catalog maintenance.
+# Research/import helpers remain available locally and are not needed to run it.
+scripts/*
+!scripts/launch.py
+!scripts/serve.py
+!scripts/build-catalog.py
+!scripts/check-installation.py

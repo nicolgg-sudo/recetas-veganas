@@ -1,0 +1,17 @@
+# Mantenimiento del recetario
+
+Para instalar este proyecto en otra computadora, lee primero README.md y SETUP_IA.md. La instalación normal usa solo el Python estándar y el catálogo/medios incluidos; no necesita volver a importar Pinterest ni instalar paquetes. Verifica con scripts/check-installation.py. Cada persona usa sus propias selecciones del navegador. El repositorio se comparte privado; no cambies su visibilidad ni solicites credenciales de la propietaria para otra persona.
+
+Lee REQUISITOS.md antes de cambiar el alcance. La usuaria pide cambios y nuevas recetas por este chat; no añadir formularios para que ella tenga que gestionar recetas. No integrar chatbot ni publicar la aplicación sin que lo pida.
+
+La app es HTML/CSS/JS local y está preparada para abrir index.html sin servidor. El inicio recomendado y verificado es Abrir recetario.cmd, que usa scripts/launch.py y scripts/serve.py con Python estándar en 127.0.0.1:8766. No cambies ese origen sin explicar cómo transferir el guardado. El servidor de desarrollo original en 8765 fue solo para pruebas. Mantén estilos, datos, fotos y videos locales y evita dependencias externas para la ejecución. Nunca sobrescribas las selecciones existentes del navegador al actualizar el catálogo. No marques ingredientes como disponibles sin indicación de la usuaria.
+
+Las recetas fuente están en data/*-*.json salvo extra-pantry.json. Reúne recetas verificadas con cantidades y rendimiento fieles, instrucciones reescritas en español, enlaces y atribución. Toda receta y sustitución debe ser vegana. No presentar contenido inferido como extracción literal ni adaptar cantidades sin identificarlo. No usar nombres de ingredientes preparados como garbanzo cocido: seco/de lata sí son presentaciones diferentes. Conserva diferencias reales como leche de coco de bebida y leche de coco en lata.
+
+La usuaria autorizó crear y guardar adaptaciones con medidas propuestas cuando los videos de su tablero no proporcionen cantidades completas. Mantén adaptationKind: "proposed", una nota explícita de medidas/rendimiento/tiempos propuestos y sin probar, y el enlace/video de referencia. No atribuyas esas cantidades al autor ni una prueba personal de cocción. La colección importada tiene 23 pines, 8 fichas con medidas publicadas y 15 adaptaciones. data/board-index.json es su inventario, no una lista de recetas para añadir como si tuviera ingredientes. El generador ya incluye data/pinterest-*.json.
+
+Descarga medios accesibles sin evadir barreras de acceso. Comprueba imagen y video realmente presentes. Si no hay video local, usa foto real de la receta y una nota clara. Cada receta de internet conserva su source.url. Los medios actuales se consultan personalmente; no publicar ni redistribuirlos automáticamente.
+
+Ingredientes nuevos del chat: añadir a data/extra-pantry.json como un nombre o {"name":"papaya","available":true} si la usuaria ha dicho que lo tiene. available solo se aplica si aún no existe selección para ese ingrediente, respetando sus cambios posteriores.
+
+Ejecutar python scripts/build-catalog.py después de cambiar datos. El script unifica alias, valida archivos, completa utensilios mencionados y genera data/catalog.js. No quitar su normalización ni las adaptaciones explícitas al editar. Comprobar node --check app.js y validar que los cinco grupos conservan al menos diez recetas. Verifica comportamiento de filtros/guardado cuando cambies su lógica; restaura el estado vacío de las pruebas, sin alterar datos reales de la usuaria.

@@ -1,0 +1,2659 @@
+[
+  {
+    "id": "ld-01",
+    "title": "Chili de habichuelas rojas y negras",
+    "category": "Almuerzo",
+    "description": "Guiso espeso de habichuelas, tomate y vegetales: una olla para varias comidas.",
+    "servings": 6,
+    "yieldLabel": "6 raciones",
+    "minutes": 60,
+    "activeMinutes": 25,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "aceite de oliva",
+        "amount": "2 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "cebolla",
+        "amount": "1 mediana",
+        "optional": false
+      },
+      {
+        "name": "apio",
+        "amount": "2 tallos medianos",
+        "optional": false
+      },
+      {
+        "name": "zanahoria",
+        "amount": "2 medianas",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "2 dientes",
+        "optional": false
+      },
+      {
+        "name": "mezcla de especias para chili",
+        "amount": "2 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "comino molido",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "orégano seco",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "pimienta de cayena",
+        "amount": "¼ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "pimentón ahumado",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "tomate troceado de lata",
+        "amount": "800 g",
+        "optional": false
+      },
+      {
+        "name": "caldo vegetal",
+        "amount": "240 ml (1 taza)",
+        "optional": false
+      },
+      {
+        "name": "pasta de tomate",
+        "amount": "130 g (½ taza)",
+        "optional": false
+      },
+      {
+        "name": "habichuela roja de lata",
+        "amount": "1 lata de 425 g, escurrida",
+        "optional": false
+      },
+      {
+        "name": "habichuela negra de lata",
+        "amount": "1 lata de 425 g, escurrida",
+        "optional": false
+      },
+      {
+        "name": "azúcar morena",
+        "amount": "2 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "al gusto, comenzar con una pizca",
+        "optional": false
+      },
+      {
+        "name": "cilantro fresco",
+        "amount": "para servir",
+        "optional": true
+      },
+      {
+        "name": "aguacate",
+        "amount": "para servir, en cubos",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Lava el apio y las zanahorias. Pela la cebolla y las zanahorias; corta todo en trozos pequeños de tamaño parecido. Escurre las dos latas de habichuelas en un colador. Ten medidas las especias antes de encender la estufa.",
+      "En un caldero grande calienta las 2 cucharadas de aceite a fuego medio. Añade la cebolla y remueve durante unos 5 minutos, hasta que se vea translúcida y blanda. No debe ponerse negra.",
+      "Incorpora el apio y las zanahorias. Cocina unos 12 minutos, removiendo con frecuencia y raspando suavemente el fondo para que no se peguen.",
+      "Añade los 2 dientes de ajo machacados, las 2 cucharadas de mezcla para chili, el comino, el orégano, la cayena y el pimentón. Remueve durante 2 minutos; si el ajo se dora muy rápido, baja el fuego.",
+      "Agrega los 800 g de tomate, 240 ml de caldo, 130 g de pasta de tomate y ambas latas de habichuelas escurridas. Mezcla hasta disolver la pasta. Cuando aparezcan burbujas, baja el fuego y cocina destapado a hervor suave unos 30 minutos. Debe espesar y la zanahoria debe poder pincharse con facilidad.",
+      "Incorpora las 2 cucharadas de azúcar morena. Prueba una cucharadita después de dejarla enfriar y ajusta la sal poco a poco. Sirve tal cual o con cilantro y aguacate opcionales."
+    ],
+    "equipment": [
+      "estufa",
+      "caldero",
+      "cuchillo",
+      "tabla de cortar",
+      "colador",
+      "medidores"
+    ],
+    "alternatives": [],
+    "substitutions": [
+      "La fuente permite azúcar de coco en lugar de azúcar morena. La mezcla para chili es un condimento, no 2 cucharadas de cayena pura."
+    ],
+    "storage": "La fuente indica que admite congelación. Separa en porciones y consulta el enlace original para sus plazos; descongela en la nevera y recalienta completamente.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "mezcla de especias para chili",
+      "pimentón ahumado"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-chili/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-01.jpg",
+    "video": null,
+    "videoSource": null,
+    "mediaNote": "La ficha de origen no publica un video descargable. Incluye foto real guardada y enlace original.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-02",
+    "title": "Pasta con boloñesa de tofu, hongos y lentejas",
+    "category": "Almuerzo",
+    "description": "Salsa abundante con textura de picadillo vegetal, sin productos animales.",
+    "servings": 6,
+    "yieldLabel": "6 raciones",
+    "minutes": 35,
+    "activeMinutes": 25,
+    "difficulty": "Media",
+    "ingredients": [
+      {
+        "name": "tofu extrafirme",
+        "amount": "226 g",
+        "optional": false
+      },
+      {
+        "name": "nuez",
+        "amount": "100 g (1 taza), picada fina",
+        "optional": false
+      },
+      {
+        "name": "champiñón",
+        "amount": "480 g (5 tazas)",
+        "optional": false
+      },
+      {
+        "name": "lenteja de lata",
+        "amount": "1½ tazas escurridas, equivalente a la cantidad cocida de la fuente",
+        "optional": false
+      },
+      {
+        "name": "cebolla",
+        "amount": "1 mediana",
+        "optional": false
+      },
+      {
+        "name": "aceite de oliva",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "1 cucharada, machacado",
+        "optional": false
+      },
+      {
+        "name": "albahaca seca",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "orégano seco",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "pimienta de cayena",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "salsa de soya oscura",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "pasta de tomate",
+        "amount": "130 g (½ taza)",
+        "optional": false
+      },
+      {
+        "name": "tomate triturado de lata",
+        "amount": "400 ml",
+        "optional": false
+      },
+      {
+        "name": "azúcar de coco",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "espagueti sin huevo",
+        "amount": "para acompañar, cantidad según el envase",
+        "optional": true
+      },
+      {
+        "name": "queso parmesano vegano",
+        "amount": "para servir",
+        "optional": true
+      },
+      {
+        "name": "albahaca fresca",
+        "amount": "para servir",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Escurre el tofu y desmenúzalo con un tenedor en un bol grande. Escurre 1½ tazas de lentejas de lata; ya vienen cocinadas. Si partes de lentejas secas, cocínalas siguiendo el envase antes de medir esa cantidad; ese tiempo es adicional.",
+      "Pica las nueces en el procesador con pulsaciones cortas: buscas trocitos, no una mantequilla. Pica de igual manera los champiñones limpios. Mezcla ambos con el tofu y las lentejas.",
+      "Calienta 1 cucharada de aceite en una sartén amplia a fuego medio. Añade la cebolla picada y cocínala hasta verla blanda y translúcida. Remueve para evitar que se queme.",
+      "Agrega la mezcla vegetal, 1 cucharada de ajo, albahaca seca, orégano, cayena y salsa de soya oscura. Remueve unos minutos para que se evapore parte del agua de los champiñones; la mezcla debe quedar húmeda, sin un charco en el fondo.",
+      "Incorpora los 130 g de pasta de tomate y los 400 ml de tomate triturado. Cocina unos minutos más, removiendo, hasta obtener una salsa espesa que se adhiera a la cuchara. Añade el azúcar de coco; prueba y ajusta sal y pimienta.",
+      "Si la acompañas con espagueti, hiérvelo por separado en agua siguiendo el tiempo y las porciones del envase; escúrrelo y reparte la salsa encima. Albahaca fresca y parmesano vegano son acabados opcionales, no necesarios para la salsa."
+    ],
+    "equipment": [
+      "estufa",
+      "sartén",
+      "procesador",
+      "bol",
+      "tenedor",
+      "colador",
+      "medidores"
+    ],
+    "alternatives": [
+      {
+        "equipment": "procesador",
+        "alternative": "Cuchillo y tabla: pica las nueces y los champiñones muy finos, sin hacerlos puré."
+      }
+    ],
+    "substitutions": [
+      "Puedes picar nueces y champiñones con cuchillo en lugar de procesarlos.",
+      "Usa exclusivamente pasta sin huevo y parmesano expresamente vegano si eliges esos acompañamientos."
+    ],
+    "storage": "La fuente indica que admite congelación. Separa en porciones y consulta el enlace original para sus plazos; descongela en la nevera y recalienta completamente.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "tofu extrafirme",
+      "salsa de soya oscura",
+      "azúcar de coco"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-bolognese/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-02.jpg",
+    "video": "assets/ld-02.mp4",
+    "videoSource": "https://videos.scriptwrapper.com/618/jupkmm9kik0vhexzb8r4/original/video.mp4",
+    "mediaNote": "Video descargado del archivo publicado por la fuente; disponible sin internet.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-03",
+    "title": "Curry cremoso de lentejas",
+    "category": "Almuerzo",
+    "description": "Lentejas secas cocinadas directamente en tomate, especias y crema de coco.",
+    "servings": 6,
+    "yieldLabel": "6 raciones",
+    "minutes": 55,
+    "activeMinutes": 15,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "aceite de oliva",
+        "amount": "2 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "cebolla",
+        "amount": "1 mediana",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "1 cucharadita, machacado",
+        "optional": false
+      },
+      {
+        "name": "curry en polvo",
+        "amount": "1 cucharada, suave",
+        "optional": false
+      },
+      {
+        "name": "comino molido",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "cilantro molido",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "cúrcuma molida",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "pimienta de cayena",
+        "amount": "¼ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "lenteja seca",
+        "amount": "300 g (1½ tazas), variedad marrón",
+        "optional": false
+      },
+      {
+        "name": "tomate troceado de lata",
+        "amount": "800 ml (2 latas)",
+        "optional": false
+      },
+      {
+        "name": "caldo vegetal",
+        "amount": "720 ml (3 tazas)",
+        "optional": false
+      },
+      {
+        "name": "crema de coco sin azúcar",
+        "amount": "400 ml",
+        "optional": false
+      },
+      {
+        "name": "albahaca fresca",
+        "amount": "2 tazas",
+        "optional": false
+      },
+      {
+        "name": "azúcar morena",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "arroz basmati seco",
+        "amount": "para acompañar, opcional; seguir envase",
+        "optional": true
+      },
+      {
+        "name": "limón",
+        "amount": "gajos para servir",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Revisa las lentejas secas para retirar piedritas o granos dañados y enjuágalas en un colador. Pica la cebolla, machaca el ajo y mide las especias.",
+      "Pon las 2 cucharadas de aceite en un caldero a fuego medio. Añade cebolla, ajo, curry, comino, cilantro molido, cúrcuma y cayena. Remueve hasta que la cebolla esté blanda; reduce el fuego si las especias se oscurecen demasiado.",
+      "Añade los 300 g de lentejas secas y remueve para cubrirlas con el aceite y las especias. Incorpora los 800 ml de tomate, 720 ml de caldo y 400 ml de crema de coco. Raspa el fondo con la cuchara para integrar lo que se haya pegado suavemente.",
+      "Cuando empiece a burbujear, baja el fuego, tapa y cocina a hervor suave entre 35 y 40 minutos, removiendo de vez en cuando. Prueba una lenteja: debe estar tierna por dentro, sin centro duro. El tiempo puede aumentar según la variedad; no termines la cocción mientras sigan duras.",
+      "Añade las 2 tazas de albahaca lavada y remueve hasta que las hojas se ablanden. Incorpora 1 cucharada de azúcar morena. Prueba una pequeña porción ya templada y añade sal y pimienta gradualmente.",
+      "Sirve sola o con arroz cocinado por separado según su envase y gajos de limón opcionales. El tiempo de preparar el arroz no forma parte de la cocción de las lentejas."
+    ],
+    "equipment": [
+      "estufa",
+      "caldero con tapa",
+      "cuchillo",
+      "colador",
+      "medidores"
+    ],
+    "alternatives": [],
+    "substitutions": [
+      "La fuente admite azúcar de coco o azúcar morena clara.",
+      "El arroz es un acompañamiento opcional; las lentejas se registran secas y se cocinan en los pasos."
+    ],
+    "storage": "La fuente indica que admite congelación. Separa en porciones y consulta el enlace original para sus plazos; descongela en la nevera y recalienta completamente.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "curry en polvo",
+      "crema de coco sin azúcar"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-lentil-curry/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-03.jpg",
+    "video": "assets/ld-03.mp4",
+    "videoSource": "https://videos.scriptwrapper.com/618/gj7nohouwrrwefc1lotf/original/video.mp4",
+    "mediaNote": "Video descargado del archivo publicado por la fuente; disponible sin internet.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-04",
+    "title": "Curry rápido de garbanzos",
+    "category": "Almuerzo",
+    "description": "Una opción de olla con garbanzos de lata y leche de coco, lista en unos 25 minutos.",
+    "servings": 4,
+    "yieldLabel": "4 raciones",
+    "minutes": 25,
+    "activeMinutes": 15,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "aceite de oliva",
+        "amount": "2 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "cebolla",
+        "amount": "1 mediana",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "1 cucharadita, machacado",
+        "optional": false
+      },
+      {
+        "name": "curry en polvo",
+        "amount": "1 cucharada (o garam masala)",
+        "optional": false
+      },
+      {
+        "name": "comino molido",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "cilantro molido",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "cúrcuma molida",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "pimienta de cayena",
+        "amount": "¼ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "garbanzo de lata",
+        "amount": "2 latas de 425 g, escurridas (unas 3 tazas)",
+        "optional": false
+      },
+      {
+        "name": "tomate troceado de lata",
+        "amount": "1 lata de unos 400 g",
+        "optional": false
+      },
+      {
+        "name": "leche de coco sin azúcar",
+        "amount": "400 ml, entera",
+        "optional": false
+      },
+      {
+        "name": "azúcar morena",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "arroz basmati seco",
+        "amount": "para acompañar, cantidad según envase",
+        "optional": true
+      },
+      {
+        "name": "cilantro fresco",
+        "amount": "para servir",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Escurre los garbanzos en un colador. Pica la cebolla en cubos pequeños y machaca el ajo. Abre y mide las latas antes de encender el fuego.",
+      "En un caldero, calienta las 2 cucharadas de aceite a fuego medio. Añade cebolla, ajo, curry o garam masala, comino, cilantro molido, cúrcuma y cayena. Remueve hasta que la cebolla se ablande; evita que el ajo y las especias se quemen.",
+      "Agrega las dos latas de garbanzos escurridas, el tomate y los 400 ml de leche de coco. Remueve hasta que el líquido tenga color uniforme.",
+      "Espera a que aparezcan burbujas, baja el fuego y cocina a hervor suave unos 10 minutos, removiendo ocasionalmente. Los garbanzos de lata ya están cocidos: aquí se calientan y absorben el sabor de la salsa.",
+      "Incorpora 1 cucharada de azúcar morena. Prueba un poco de salsa después de enfriarla y ajusta sal y pimienta. Sirve con cilantro y arroz opcionales; cocina el arroz por separado siguiendo el envase."
+    ],
+    "equipment": [
+      "estufa",
+      "caldero",
+      "colador",
+      "cuchillo",
+      "medidores"
+    ],
+    "alternatives": [],
+    "substitutions": [
+      "La fuente permite garam masala o curry en polvo.",
+      "Puede usarse azúcar de coco en lugar de azúcar morena."
+    ],
+    "storage": "La fuente indica que admite congelación. Separa en porciones y consulta el enlace original para sus plazos; descongela en la nevera y recalienta completamente.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "curry en polvo",
+      "leche de coco sin azúcar"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-chickpea-curry/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-04.jpg",
+    "video": null,
+    "videoSource": null,
+    "mediaNote": "La ficha de origen no publica un video descargable. Incluye foto real guardada y enlace original.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-05",
+    "title": "Arroz salteado con vegetales y cajuiles",
+    "category": "Almuerzo",
+    "description": "Aprovecha arroz ya preparado para un salteado rápido y crujiente.",
+    "servings": 4,
+    "yieldLabel": "4 raciones",
+    "minutes": 15,
+    "activeMinutes": 15,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "aceite de ajonjolí",
+        "amount": "2 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "cebolla",
+        "amount": "1 mediana",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "1 cucharada, machacado",
+        "optional": false
+      },
+      {
+        "name": "jengibre fresco",
+        "amount": "1 cucharada, picado muy fino",
+        "optional": false
+      },
+      {
+        "name": "pasta de curry verde vegana",
+        "amount": "1 cucharadita; comprobar que no contiene pescado ni camarón",
+        "optional": false
+      },
+      {
+        "name": "vegetales mixtos congelados",
+        "amount": "280 g (2 tazas)",
+        "optional": false
+      },
+      {
+        "name": "salsa de soya",
+        "amount": "2 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "arroz blanco seco",
+        "amount": "cantidad para obtener 4 tazas cocidas; preparar antes según envase",
+        "optional": false
+      },
+      {
+        "name": "cajuil tostado con sal",
+        "amount": "150 g (1 taza)",
+        "optional": false
+      },
+      {
+        "name": "cebollín",
+        "amount": "2 unidades",
+        "optional": false
+      },
+      {
+        "name": "albahaca fresca",
+        "amount": "¼ taza, picada",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Esta receta necesita 4 tazas de arroz cocido y suelto antes de empezar. Si no tienes arroz preparado, cocina arroz seco según el envase y mide 4 tazas del resultado. Ese tiempo es adicional a los 15 minutos de salteado indicados en la fuente.",
+      "Pica la cebolla y el cebollín, machaca el ajo y pica el jengibre. Comprueba que la pasta de curry verde esté etiquetada como vegana: algunas llevan pescado o camarón.",
+      "Calienta 2 cucharadas de aceite de ajonjolí en una sartén amplia o wok a fuego medio. Añade cebolla, ajo, jengibre y 1 cucharadita de pasta de curry. Remueve hasta que la cebolla esté blanda y la pasta bien distribuida.",
+      "Añade las 2 tazas de vegetales congelados y las 2 cucharadas de salsa de soya. Saltea, moviendo con una espátula desde el fondo hacia arriba, hasta que los vegetales estén calientes y tiernos pero mantengan algo de firmeza.",
+      "Agrega las 4 tazas de arroz preparado, los 150 g de cajuiles, el cebollín y la albahaca. Separa los grumos con la espátula y remueve un par de minutos hasta mezclarlo todo y calentarlo por completo. Sirve inmediatamente."
+    ],
+    "equipment": [
+      "estufa",
+      "wok",
+      "espátula",
+      "medidores"
+    ],
+    "alternatives": [
+      {
+        "equipment": "wok",
+        "alternative": "Sartén amplia; deja espacio para remover sin derramar."
+      }
+    ],
+    "substitutions": [
+      "Una sartén grande puede sustituir el wok. Cocina en tandas si el recipiente queda demasiado lleno."
+    ],
+    "storage": "La fuente indica que admite congelación. Separa en porciones y consulta el enlace original para sus plazos; descongela en la nevera y recalienta completamente.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "aceite de ajonjolí",
+      "pasta de curry verde vegana",
+      "cajuil tostado con sal"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-fried-rice/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-05.jpg",
+    "video": "assets/ld-05.mp4",
+    "videoSource": "https://videos.scriptwrapper.com/618/jxbm7w1drg9kcqqczq71/original/video.mp4",
+    "mediaNote": "Video descargado del archivo publicado por la fuente; disponible sin internet.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-06",
+    "title": "Jambalaya de arroz y salchicha vegana",
+    "category": "Almuerzo",
+    "description": "Arroz de una sola olla con ajíes, apio y sazón cajún.",
+    "servings": 6,
+    "yieldLabel": "6 raciones",
+    "minutes": 55,
+    "activeMinutes": 25,
+    "difficulty": "Media",
+    "ingredients": [
+      {
+        "name": "aceite de oliva",
+        "amount": "3 cucharadas, divididas",
+        "optional": false
+      },
+      {
+        "name": "salchicha vegana",
+        "amount": "450 g",
+        "optional": false
+      },
+      {
+        "name": "cebolla",
+        "amount": "1 mediana",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "4 dientes",
+        "optional": false
+      },
+      {
+        "name": "ají morrón verde",
+        "amount": "1 mediano",
+        "optional": false
+      },
+      {
+        "name": "ají morrón rojo",
+        "amount": "1 mediano",
+        "optional": false
+      },
+      {
+        "name": "ají morrón amarillo",
+        "amount": "1 mediano",
+        "optional": false
+      },
+      {
+        "name": "apio",
+        "amount": "2 tallos medianos",
+        "optional": false
+      },
+      {
+        "name": "tomate triturado de lata",
+        "amount": "400 g",
+        "optional": false
+      },
+      {
+        "name": "salsa de soya",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "caldo vegetal",
+        "amount": "720 ml (3 tazas)",
+        "optional": false
+      },
+      {
+        "name": "arroz blanco seco",
+        "amount": "300 g (1½ tazas), grano largo",
+        "optional": false
+      },
+      {
+        "name": "sazón cajún",
+        "amount": "2 cucharadas, mezcla sin ingredientes animales",
+        "optional": false
+      },
+      {
+        "name": "tomillo seco",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "pimienta de cayena",
+        "amount": "¼ cucharadita",
+        "optional": true
+      },
+      {
+        "name": "laurel",
+        "amount": "1 hoja",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "perejil fresco",
+        "amount": "para servir",
+        "optional": true
+      },
+      {
+        "name": "cebollín",
+        "amount": "para servir",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Corta la salchicha vegana en rodajas. Pica la cebolla, el apio y los tres ajíes, retirando semillas y tallos de estos últimos. Machaca los 4 dientes de ajo. Mide el arroz seco y el caldo.",
+      "Calienta 1 cucharada de aceite en un caldero amplio a fuego medio-alto. Añade la salchicha y cocina unos 5 minutos, girándola para dorar varias caras. Retírala a un plato.",
+      "En el mismo caldero añade las otras 2 cucharadas de aceite, cebolla, ajo, ajíes y apio. Remueve unos 5 minutos, hasta que los vegetales empiecen a ablandarse.",
+      "Incorpora los 400 g de tomate triturado, 1 cucharada de salsa de soya, 720 ml de caldo, 300 g de arroz seco, sazón cajún, tomillo y la hoja de laurel. La cayena es opcional. Mezcla bien.",
+      "Cuando burbujee, baja el fuego, tapa y cocina entre 25 y 30 minutos. Remueve con cuidado aproximadamente cada 5 minutos para comprobar que no se pegue al fondo. El arroz debe quedar tierno, sin centro duro.",
+      "Devuelve la salchicha al caldero y mezcla hasta calentarla. Retira la hoja de laurel antes de servir. Prueba y ajusta sal y pimienta; termina con perejil o cebollín si deseas."
+    ],
+    "equipment": [
+      "estufa",
+      "caldero con tapa",
+      "cuchillo",
+      "tabla de cortar",
+      "medidores"
+    ],
+    "alternatives": [],
+    "substitutions": [
+      "Revisa la etiqueta de la salchicha y la mezcla cajún: deben ser veganas. La cayena puede omitirse."
+    ],
+    "storage": "La fuente indica que admite congelación. Separa en porciones y consulta el enlace original para sus plazos; descongela en la nevera y recalienta completamente.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "salchicha vegana",
+      "sazón cajún"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-jambalaya/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-06.jpg",
+    "video": null,
+    "videoSource": null,
+    "mediaNote": "La ficha de origen no publica un video descargable. Incluye foto real guardada y enlace original.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-07",
+    "title": "Pastel de papa con picadillo de soya",
+    "category": "Almuerzo",
+    "description": "Una capa de picadillo vegetal cubierta con puré y dorada al horno.",
+    "servings": 6,
+    "yieldLabel": "6 raciones",
+    "minutes": 90,
+    "activeMinutes": 45,
+    "difficulty": "Media",
+    "ingredients": [
+      {
+        "name": "cebolla",
+        "amount": "1 mediana",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "1 cucharada, machacado",
+        "optional": false
+      },
+      {
+        "name": "aceite de oliva",
+        "amount": "2 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "soya texturizada seca",
+        "amount": "1 taza, para hidratar con 1 taza de agua caliente",
+        "optional": false
+      },
+      {
+        "name": "champiñón",
+        "amount": "480 g (5 tazas), picado fino",
+        "optional": false
+      },
+      {
+        "name": "salsa de soya",
+        "amount": "2 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "sirope de arce",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "albahaca seca",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "orégano seco",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "pasta de tomate",
+        "amount": "130 g (½ taza)",
+        "optional": false
+      },
+      {
+        "name": "mezcla congelada de guisantes y zanahoria",
+        "amount": "280 g (2 tazas)",
+        "optional": false
+      },
+      {
+        "name": "papa",
+        "amount": "1,1 kg (4 grandes)",
+        "optional": false
+      },
+      {
+        "name": "mantequilla vegana",
+        "amount": "60 g (4 cucharadas), más un poco para la superficie",
+        "optional": false
+      },
+      {
+        "name": "leche de soya sin azúcar",
+        "amount": "80–120 ml (⅓–½ taza)",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "agua",
+        "amount": "240 ml (1 taza), caliente para hidratar la soya",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Hidrata 1 taza de soya texturizada con 1 taza de agua caliente, siguiendo también las indicaciones de su envase. La fuente admite esta alternativa a 300 g de picadillo de soya congelado. Pela las papas y córtalas en trozos parecidos.",
+      "Pon las papas en una olla y cúbrelas con agua. Lleva a hervor y cocina unos 20–25 minutos: estarán listas cuando un tenedor entre sin resistencia. Mientras tanto, pica la cebolla y los champiñones; el procesador facilita picar estos últimos sin convertirlos en puré.",
+      "Calienta las 2 cucharadas de aceite en otra olla a fuego medio. Cocina la cebolla y el ajo hasta ablandarlos. Añade la soya hidratada y remueve hasta que tome algo de color, separando los grumos con una espátula.",
+      "Incorpora champiñones, 2 cucharadas de salsa de soya, 1 de sirope, albahaca seca, orégano y pasta de tomate. Mezcla bien. Añade los guisantes y zanahorias congelados y cocina removiendo hasta que se ablanden y el relleno esté caliente.",
+      "Escurre las papas cocidas. Añade 60 g de mantequilla vegana y empieza con 80 ml de leche de soya sin azúcar. Machaca con tenedor o majador; añade más leche, hasta 120 ml, si necesitas suavizar el puré. Ajusta sal y pimienta.",
+      "Precalienta el horno a 200 °C. Reparte el picadillo en una fuente apta para horno y alisa la superficie. Coloca el puré encima; extiéndelo sin mezclar ambas capas. Dibuja surcos con un tenedor y coloca unos pequeños puntos de mantequilla vegana.",
+      "Hornea unos 30 minutos. Si tu horno tiene grill superior, puedes usarlo los últimos 5 minutos para dorar, vigilando continuamente. Retira con guantes de horno; el relleno debe estar burbujeante y la superficie dorada."
+    ],
+    "equipment": [
+      "estufa",
+      "horno",
+      "caldero",
+      "sartén",
+      "fuente para horno",
+      "tenedor",
+      "medidores"
+    ],
+    "alternatives": [
+      {
+        "equipment": "procesador",
+        "alternative": "Picar los champiñones finamente con cuchillo."
+      },
+      {
+        "equipment": "majador de papa",
+        "alternative": "Tenedor firme; machaca las papas mientras están calientes."
+      }
+    ],
+    "substitutions": [
+      "La fuente permite 300 g de picadillo de soya congelado en lugar de soya texturizada hidratada.",
+      "Puede usarse otra leche vegetal sin azúcar."
+    ],
+    "storage": "La fuente indica que admite congelación. Separa en porciones y consulta el enlace original para sus plazos; descongela en la nevera y recalienta completamente.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "soya texturizada seca",
+      "sirope de arce",
+      "mantequilla vegana"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-shepherds-pie/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-07.jpg",
+    "video": null,
+    "videoSource": null,
+    "mediaNote": "La ficha de origen no publica un video descargable. Incluye foto real guardada y enlace original.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-08",
+    "title": "Macarrones cremosos de auyama y cajuil",
+    "category": "Almuerzo",
+    "description": "Salsa vegetal de auyama asada, cajuil y levadura nutricional.",
+    "servings": 6,
+    "yieldLabel": "6 raciones",
+    "minutes": 50,
+    "activeMinutes": 25,
+    "difficulty": "Media",
+    "ingredients": [
+      {
+        "name": "auyama",
+        "amount": "750 g (5 tazas), pelada y en cubos; la fuente usa butternut",
+        "optional": false
+      },
+      {
+        "name": "aceite de oliva",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "1 cucharada, machacado",
+        "optional": false
+      },
+      {
+        "name": "pimentón ahumado",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "¼ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra",
+        "amount": "¼ cucharadita, más al gusto",
+        "optional": false
+      },
+      {
+        "name": "pimienta de cayena",
+        "amount": "¼ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "cajuil crudo",
+        "amount": "150 g (1 taza)",
+        "optional": false
+      },
+      {
+        "name": "levadura nutricional",
+        "amount": "3 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "ajo en polvo",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "cebolla en polvo",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "mostaza Dijon",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "limón amarillo",
+        "amount": "1 cucharada de jugo",
+        "optional": false
+      },
+      {
+        "name": "caldo vegetal",
+        "amount": "480 ml (2 tazas), dividido",
+        "optional": false
+      },
+      {
+        "name": "macarrón sin huevo",
+        "amount": "450 g, peso seco",
+        "optional": false
+      },
+      {
+        "name": "perejil fresco",
+        "amount": "para servir",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Pela y corta la auyama en cubos de tamaño parecido. Mézclala en un bol con 1 cucharada de aceite, 1 de ajo, pimentón ahumado, sal, pimienta y cayena.",
+      "Extiende los cubos en una bandeja para horno, procurando una sola capa. Asa unos 35 minutos, hasta que un tenedor atraviese la auyama fácilmente y aparezcan bordes dorados.",
+      "Mientras se asa, coloca en la licuadora los 150 g de cajuil crudo, las 3 cucharadas de levadura nutricional, ajo y cebolla en polvo, mostaza, jugo de limón y solo 240 ml (1 taza) del caldo. Licúa hasta obtener una mezcla lo más lisa posible. Detén el equipo antes de raspar las paredes.",
+      "Unos 15 minutos antes de terminar la auyama, hierve los macarrones en otra olla siguiendo el tiempo y el agua indicados en el envase. Prueba una pieza para verificar que esté tierna y escúrrelos.",
+      "Deja que la auyama asada pierda el calor intenso antes de añadirla a la licuadora junto con los otros 240 ml de caldo. Licúa por tandas si hace falta y sigue las instrucciones del equipo para alimentos calientes; nunca selles vapor hirviendo en una licuadora no diseñada para ello.",
+      "Devuelve la pasta a la olla, vierte la salsa y mezcla suavemente a fuego bajo-medio durante unos minutos, hasta que todo esté caliente. Sirve con perejil y más pimienta si deseas."
+    ],
+    "equipment": [
+      "horno",
+      "estufa",
+      "licuadora",
+      "bandeja para horno",
+      "caldero",
+      "colador",
+      "medidores"
+    ],
+    "alternatives": [],
+    "substitutions": [
+      "La auyama local puede dar una salsa más líquida que la variedad butternut de la fuente: incorpora el último caldo gradualmente y detente si ya está cremosa.",
+      "Levadura nutricional no es levadura de panadería."
+    ],
+    "storage": "La fuente indica que admite congelación. Separa en porciones y consulta el enlace original para sus plazos; descongela en la nevera y recalienta completamente.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "cajuil crudo",
+      "levadura nutricional",
+      "mostaza Dijon"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-mac-and-cheese/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-08.jpg",
+    "video": "assets/ld-08.mp4",
+    "videoSource": "https://videos.scriptwrapper.com/618/vd1jqgp7gdhk8byilnzv/original/video.mp4",
+    "mediaNote": "Video descargado del archivo publicado por la fuente; disponible sin internet.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-09",
+    "title": "Curry de coco con vegetales y garbanzos",
+    "category": "Almuerzo",
+    "description": "Calabacín, ají y maíz baby en una salsa suave de coco.",
+    "servings": 4,
+    "yieldLabel": "4 raciones",
+    "minutes": 30,
+    "activeMinutes": 20,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "aceite de oliva",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "cebolla",
+        "amount": "1 mediana",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "1 cucharadita, machacado",
+        "optional": false
+      },
+      {
+        "name": "curry en polvo",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "comino molido",
+        "amount": "¼ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "cilantro molido",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "maíz baby",
+        "amount": "240 g (1½ tazas), troceado",
+        "optional": false
+      },
+      {
+        "name": "ají morrón rojo",
+        "amount": "1 mediano",
+        "optional": false
+      },
+      {
+        "name": "calabacín",
+        "amount": "300 g (2 tazas), en rodajas",
+        "optional": false
+      },
+      {
+        "name": "garbanzo de lata",
+        "amount": "1 lata de 425 g, escurrida",
+        "optional": false
+      },
+      {
+        "name": "tomate troceado de lata",
+        "amount": "400 g",
+        "optional": false
+      },
+      {
+        "name": "leche de coco sin azúcar",
+        "amount": "400 ml, entera",
+        "optional": false
+      },
+      {
+        "name": "azúcar de coco",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "½ cucharadita, ajustar al final",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "arroz basmati seco",
+        "amount": "para acompañar, cantidad según envase",
+        "optional": true
+      },
+      {
+        "name": "cilantro fresco",
+        "amount": "para servir",
+        "optional": true
+      },
+      {
+        "name": "limón",
+        "amount": "gajos para servir",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Escurre los garbanzos y, si el maíz baby viene en lata, escúrrelo también. Pica la cebolla, retira las semillas del ají y córtalo en tiras. Corta el calabacín en rodajas parecidas para que se cocinen al mismo tiempo.",
+      "Pon 1 cucharada de aceite en un caldero a fuego medio. Añade cebolla, ajo, curry, comino y cilantro molido. Remueve hasta que la cebolla esté blanda, bajando el fuego si las especias comienzan a pegarse.",
+      "Agrega los 240 g de maíz baby, el ají, 300 g de calabacín y los garbanzos escurridos. Remueve para cubrirlos de las especias.",
+      "Incorpora los 400 g de tomate y 400 ml de leche de coco. Cuando empiece a burbujear, baja el fuego y cocina a hervor suave hasta que el calabacín y el ají estén tiernos; compruébalo con un tenedor, sin deshacerlos.",
+      "Añade 1 cucharada de azúcar de coco y ½ cucharadita de sal. Prueba la salsa después de enfriar una pequeña cantidad y ajusta pimienta o sal. Sirve con arroz, cilantro y gajos de limón opcionales; el arroz se cocina aparte según el envase."
+    ],
+    "equipment": [
+      "estufa",
+      "caldero",
+      "cuchillo",
+      "colador",
+      "medidores"
+    ],
+    "alternatives": [],
+    "substitutions": [
+      "La fuente usa leche de coco entera sin azúcar; no crema de coco dulce para bebidas."
+    ],
+    "storage": "Guarda las sobras tapadas en la nevera. Conserva los componentes frescos y el aderezo por separado cuando corresponda. Esta ficha no recomienda congelación.",
+    "freezer": false,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "curry en polvo",
+      "maíz baby",
+      "azúcar de coco"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-coconut-curry/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-09.jpg",
+    "video": "assets/ld-09.mp4",
+    "videoSource": "https://videos.scriptwrapper.com/618/bvomhj9n6yivwr1og2l3/original/video.mp4",
+    "mediaNote": "Video descargado del archivo publicado por la fuente; disponible sin internet.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-10",
+    "title": "Ensalada de cuscús, aguacate y tahini",
+    "category": "Almuerzo",
+    "description": "Ensalada abundante con vegetales crujientes y aderezo de limón.",
+    "servings": 8,
+    "yieldLabel": "8 raciones",
+    "minutes": 20,
+    "activeMinutes": 20,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "cuscús seco",
+        "amount": "173 g (1 taza)",
+        "optional": false
+      },
+      {
+        "name": "agua",
+        "amount": "240 ml (1 taza), hirviendo; más 1–2 cucharadas para el aderezo",
+        "optional": false
+      },
+      {
+        "name": "mantequilla vegana",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "lechuga iceberg",
+        "amount": "½ cabeza",
+        "optional": false
+      },
+      {
+        "name": "pepino",
+        "amount": "½ grande",
+        "optional": false
+      },
+      {
+        "name": "tomate cherry",
+        "amount": "10 unidades",
+        "optional": false
+      },
+      {
+        "name": "tomate seco",
+        "amount": "10 unidades",
+        "optional": false
+      },
+      {
+        "name": "aceituna verde sin hueso",
+        "amount": "12 unidades",
+        "optional": false
+      },
+      {
+        "name": "maíz en grano de lata",
+        "amount": "1 lata de 425 g, escurrida",
+        "optional": false
+      },
+      {
+        "name": "tahini",
+        "amount": "60 ml (¼ taza)",
+        "optional": false
+      },
+      {
+        "name": "limón amarillo",
+        "amount": "2 cucharadas de jugo",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "½ cucharadita, machacado",
+        "optional": false
+      },
+      {
+        "name": "salsa de soya",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "sirope de arce",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "aguacate",
+        "amount": "2 medianos",
+        "optional": false
+      },
+      {
+        "name": "cilantro fresco",
+        "amount": "para servir",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Coloca 173 g de cuscús en un bol resistente al calor y vierte 240 ml de agua hirviendo. Tapa y deja reposar unos minutos, respetando además las indicaciones del envase. Separa los granos con un tenedor: no deben quedar secos ni duros. Añade 1 cucharada de mantequilla vegana y una pizca de sal y pimienta.",
+      "Lava y seca la lechuga y los vegetales. Corta la lechuga en tiras y el pepino en trozos pequeños; parte los tomates cherry, tomates secos y aceitunas. Escurre el maíz en un colador.",
+      "Mezcla todos esos vegetales y el maíz en una ensaladera. Añade el cuscús ya suelto y remueve con suavidad para repartirlo.",
+      "En un recipiente pequeño bate 60 ml de tahini, 2 cucharadas de jugo de limón, ½ cucharadita de ajo, 1 cucharada de salsa de soya y 1 de sirope. Añade 1–2 cucharadas de agua, poco a poco, hasta que el aderezo caiga de la cuchara sin ser totalmente líquido.",
+      "Vierte el aderezo y mezcla. Corta los 2 aguacates justo antes de servir, retira hueso y piel y distribúyelos encima. Añade cilantro si deseas. Para guardar parte de la receta, reserva el aguacate y el aderezo aparte."
+    ],
+    "equipment": [
+      "bol",
+      "ensaladera",
+      "tenedor",
+      "cuchillo",
+      "medidores"
+    ],
+    "alternatives": [],
+    "substitutions": [
+      "El tahini es pasta de ajonjolí. Remueve primero el contenido del frasco si el aceite se ha separado."
+    ],
+    "storage": "Guarda las sobras tapadas en la nevera. Conserva los componentes frescos y el aderezo por separado cuando corresponda. Esta ficha no recomienda congelación.",
+    "freezer": false,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "cuscús seco",
+      "tahini",
+      "tomate seco",
+      "sirope de arce"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-couscous-salad/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-10.jpg",
+    "video": null,
+    "videoSource": null,
+    "mediaNote": "La ficha de origen no publica un video descargable. Incluye foto real guardada y enlace original.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-11",
+    "title": "Crema de tomate y albahaca",
+    "category": "Cena",
+    "description": "Tomate fresco y de lata con vegetales y un toque de coco.",
+    "servings": 4,
+    "yieldLabel": "4 raciones",
+    "minutes": 45,
+    "activeMinutes": 20,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "aceite de oliva",
+        "amount": "1 cucharada, más un hilo opcional para servir",
+        "optional": false
+      },
+      {
+        "name": "cebolla",
+        "amount": "1 mediana",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "1 cucharadita, machacado",
+        "optional": false
+      },
+      {
+        "name": "orégano seco",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "albahaca seca",
+        "amount": "2 cucharaditas",
+        "optional": false
+      },
+      {
+        "name": "zanahoria",
+        "amount": "2 grandes",
+        "optional": false
+      },
+      {
+        "name": "apio",
+        "amount": "2 tallos grandes",
+        "optional": false
+      },
+      {
+        "name": "tomate entero pelado de lata",
+        "amount": "800 g",
+        "optional": false
+      },
+      {
+        "name": "tomate",
+        "amount": "6 grandes maduros",
+        "optional": false
+      },
+      {
+        "name": "caldo vegetal",
+        "amount": "120 ml (½ taza)",
+        "optional": false
+      },
+      {
+        "name": "azúcar morena",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "albahaca fresca",
+        "amount": "1 taza compacta, más hojas para servir",
+        "optional": false
+      },
+      {
+        "name": "crema de coco sin azúcar",
+        "amount": "240 ml (1 taza)",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra",
+        "amount": "al gusto",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Lava los vegetales. Pica la cebolla, zanahorias, apio y tomates frescos en trozos pequeños. Machaca el ajo y mide las especias y líquidos.",
+      "Calienta 1 cucharada de aceite en un caldero a fuego medio. Cocina la cebolla y el ajo, removiendo, hasta que la cebolla esté blanda y translúcida.",
+      "Añade orégano, albahaca seca, zanahorias, apio, 800 g de tomate de lata, los 6 tomates frescos y 120 ml de caldo. Mezcla; rompe con la cuchara los tomates enteros de lata.",
+      "Lleva a hervor, baja el fuego y tapa. Cocina suavemente hasta que zanahoria y apio se puedan atravesar con un tenedor. Remueve de vez en cuando para que el fondo no se pegue.",
+      "Apaga el fuego. Añade 1 cucharada de azúcar morena, la taza de albahaca fresca y 240 ml de crema de coco. Mezcla.",
+      "Licúa hasta obtener una crema lisa. Con tu licuadora de vaso, deja templar primero y trabaja por tandas; sigue sus instrucciones para preparaciones calientes y no encierres vapor hirviendo. Devuelve la crema al caldero y calienta suavemente si hace falta. Prueba, ajusta sal y pimienta y sirve con hojas de albahaca."
+    ],
+    "equipment": [
+      "estufa",
+      "caldero con tapa",
+      "licuadora",
+      "cuchillo",
+      "medidores"
+    ],
+    "alternatives": [
+      {
+        "equipment": "licuadora de inmersión",
+        "alternative": "Licuadora de vaso por tandas, con la sopa templada y respetando las instrucciones del equipo."
+      }
+    ],
+    "substitutions": [
+      "La fuente permite azúcar de coco en lugar de azúcar morena clara."
+    ],
+    "storage": "La fuente indica que admite congelación. Separa en porciones y consulta el enlace original para sus plazos; descongela en la nevera y recalienta completamente.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "crema de coco sin azúcar"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-tomato-basil-soup/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-11.jpg",
+    "video": null,
+    "videoSource": null,
+    "mediaNote": "La ficha de origen no publica un video descargable. Incluye foto real guardada y enlace original.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-12",
+    "title": "Crema de brócoli y papa",
+    "category": "Cena",
+    "description": "Sopa espesa de vegetales, suavizada con crema de coco.",
+    "servings": 6,
+    "yieldLabel": "6 raciones",
+    "minutes": 30,
+    "activeMinutes": 15,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "aceite de oliva",
+        "amount": "2 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "cebolla",
+        "amount": "1 mediana",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "3 dientes",
+        "optional": false
+      },
+      {
+        "name": "tomillo seco",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "romero seco",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "pimienta de cayena",
+        "amount": "¼ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "brócoli",
+        "amount": "720 g (8 tazas), en floretes",
+        "optional": false
+      },
+      {
+        "name": "papa",
+        "amount": "450 g (3 tazas), pelada y en cubos",
+        "optional": false
+      },
+      {
+        "name": "caldo vegetal",
+        "amount": "1440 ml (6 tazas)",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra",
+        "amount": "¼ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "crema de coco sin azúcar",
+        "amount": "240 ml (1 taza)",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Lava el brócoli y sepáralo en floretes. Pela las papas y córtalas en cubos pequeños de tamaño parecido. Pica la cebolla y machaca los 3 dientes de ajo.",
+      "Calienta 2 cucharadas de aceite en un caldero a fuego medio. Añade la cebolla y remueve hasta que esté blanda. Agrega ajo, tomillo, romero y cayena; cocina unos minutos sin dejar que se quemen.",
+      "Incorpora los 720 g de brócoli y 450 g de papa. Mezcla para cubrirlos de las especias y añade los 1440 ml de caldo.",
+      "Tapa y espera a que burbujee. Baja el fuego y mantén un hervor suave hasta que papas y brócoli estén muy tiernos: un tenedor debe entrar con facilidad en ambos.",
+      "Apaga el fuego. Deja templar la sopa y licúala por tandas según las indicaciones de tu equipo; no encierres vapor hirviendo en una licuadora de vaso. Devuélvela al caldero.",
+      "Añade los 240 ml de crema de coco y ¼ cucharadita de pimienta. Remueve, calienta suavemente y prueba antes de añadir sal, porque el caldo puede aportar bastante."
+    ],
+    "equipment": [
+      "estufa",
+      "caldero con tapa",
+      "licuadora",
+      "cuchillo",
+      "medidores"
+    ],
+    "alternatives": [
+      {
+        "equipment": "licuadora de inmersión",
+        "alternative": "Licuadora de vaso por tandas con la preparación templada."
+      }
+    ],
+    "substitutions": [
+      "La licuadora de inmersión permite triturar directamente en la olla, si tienes una."
+    ],
+    "storage": "La fuente indica que admite congelación. Separa en porciones y consulta el enlace original para sus plazos; descongela en la nevera y recalienta completamente.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "crema de coco sin azúcar"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-broccoli-soup/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-12.jpg",
+    "video": null,
+    "videoSource": null,
+    "mediaNote": "La ficha de origen no publica un video descargable. Incluye foto real guardada y enlace original.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-13",
+    "title": "Crema de papa y puerro",
+    "category": "Cena",
+    "description": "Una olla de sopa suave con papa, puerro y hierbas.",
+    "servings": 6,
+    "yieldLabel": "6 raciones",
+    "minutes": 45,
+    "activeMinutes": 20,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "cebolla",
+        "amount": "1 mediana",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "1 cucharadita, machacado",
+        "optional": false
+      },
+      {
+        "name": "aceite de oliva",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "puerro",
+        "amount": "4 grandes, solo parte blanca y verde clara",
+        "optional": false
+      },
+      {
+        "name": "tomillo seco",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "romero seco",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "cilantro molido",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "papa",
+        "amount": "1 kg (6 medianas)",
+        "optional": false
+      },
+      {
+        "name": "laurel",
+        "amount": "2 hojas",
+        "optional": false
+      },
+      {
+        "name": "caldo vegetal",
+        "amount": "960 ml (4 tazas)",
+        "optional": false
+      },
+      {
+        "name": "crema de coco sin azúcar",
+        "amount": "400 ml",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "cebollín",
+        "amount": "para servir, picado",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Corta y desecha las raíces y las hojas verde oscuro del puerro. Abre la parte blanca y verde clara a lo largo y lava entre las capas para retirar la tierra; después córtala en rodajas. Pela y corta las papas en cubos y pica la cebolla.",
+      "En un caldero calienta 1 cucharada de aceite a fuego medio. Añade cebolla, puerro y ajo; remueve hasta que se ablanden. Incorpora tomillo, romero y cilantro molido y mezcla brevemente.",
+      "Agrega el kilo de papas, las 2 hojas de laurel y 960 ml de caldo. Cuando hierva, baja el fuego y tapa. Cocina suavemente hasta que un tenedor entre sin resistencia en las papas.",
+      "Apaga el fuego y retira las dos hojas de laurel: no deben licuarse ni comerse. Añade los 400 ml de crema de coco.",
+      "Deja templar y licúa por tandas hasta obtener una crema uniforme, respetando las instrucciones de tu equipo para líquidos calientes. Devuelve al caldero, calienta suavemente y ajusta sal y pimienta después de probar.",
+      "Sirve con cebollín picado opcional. Divide las sobras en recipientes para otras raciones."
+    ],
+    "equipment": [
+      "estufa",
+      "caldero con tapa",
+      "licuadora",
+      "cuchillo",
+      "medidores"
+    ],
+    "alternatives": [
+      {
+        "equipment": "licuadora de inmersión",
+        "alternative": "Licuadora de vaso; deja templar y procesa por tandas."
+      }
+    ],
+    "substitutions": [
+      "Puedes usar licuadora de inmersión directamente en la olla si dispones de una."
+    ],
+    "storage": "La fuente indica que admite congelación. Separa en porciones y consulta el enlace original para sus plazos; descongela en la nevera y recalienta completamente.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "puerro",
+      "crema de coco sin azúcar"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-potato-leek-soup/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-13.jpg",
+    "video": "assets/ld-13.mp4",
+    "videoSource": "https://videos.scriptwrapper.com/618/pzzmclq5o3wsi1ewznvw/original/video.mp4",
+    "mediaNote": "Video descargado del archivo publicado por la fuente; disponible sin internet.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-14",
+    "title": "Minestrone de habichuelas y arroz integral",
+    "category": "Cena",
+    "description": "Sopa completa con vegetales, habichuelas rojas y espinaca.",
+    "servings": 6,
+    "yieldLabel": "6 raciones",
+    "minutes": 65,
+    "activeMinutes": 20,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "aceite de oliva",
+        "amount": "2 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "cebolla",
+        "amount": "1 mediana",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "1 cucharadita, machacado",
+        "optional": false
+      },
+      {
+        "name": "orégano seco",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "tomillo seco",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "albahaca seca",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "apio",
+        "amount": "3 tallos",
+        "optional": false
+      },
+      {
+        "name": "zanahoria",
+        "amount": "2 grandes",
+        "optional": false
+      },
+      {
+        "name": "champiñón",
+        "amount": "240 g (2½ tazas), en láminas",
+        "optional": false
+      },
+      {
+        "name": "habichuela roja de lata",
+        "amount": "2 latas de 425 g, escurridas",
+        "optional": false
+      },
+      {
+        "name": "tomate troceado de lata",
+        "amount": "400 g",
+        "optional": false
+      },
+      {
+        "name": "pasta de tomate",
+        "amount": "130 g (½ taza)",
+        "optional": false
+      },
+      {
+        "name": "caldo vegetal",
+        "amount": "1200 ml (5 tazas)",
+        "optional": false
+      },
+      {
+        "name": "agua",
+        "amount": "480 ml (2 tazas)",
+        "optional": false
+      },
+      {
+        "name": "salsa de soya",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "arroz integral seco",
+        "amount": "185 g (1 taza)",
+        "optional": false
+      },
+      {
+        "name": "espinaca fresca",
+        "amount": "90 g (3 tazas)",
+        "optional": false
+      },
+      {
+        "name": "azúcar de coco",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra",
+        "amount": "al gusto",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Pica la cebolla, el apio y las zanahorias. Limpia y corta los champiñones. Escurre las habichuelas de lata y enjuaga el arroz integral en un colador.",
+      "Calienta 2 cucharadas de aceite en un caldero grande a fuego medio. Añade cebolla, ajo, orégano, tomillo y albahaca seca. Remueve hasta que la cebolla se ablande.",
+      "Incorpora apio, zanahoria, champiñones y las dos latas de habichuelas escurridas. Mezcla para repartir las hierbas.",
+      "Agrega 400 g de tomate, 130 g de pasta de tomate, 1200 ml de caldo, 480 ml de agua y 1 cucharada de salsa de soya. Remueve hasta disolver la pasta y lleva a hervor.",
+      "Añade los 185 g de arroz integral seco, baja el fuego y tapa. Cocina a hervor suave unos 35 minutos o hasta que arroz y vegetales estén tiernos. Revisa y remueve de vez en cuando; el tiempo del arroz puede variar según la marca.",
+      "Incorpora los 90 g de espinaca lavada y remueve hasta que sus hojas se ablanden. Añade 1 cucharada de azúcar de coco. Prueba una pequeña cantidad templada y ajusta sal y pimienta."
+    ],
+    "equipment": [
+      "estufa",
+      "caldero con tapa",
+      "cuchillo",
+      "colador",
+      "medidores"
+    ],
+    "alternatives": [],
+    "substitutions": [
+      "Esta versión de minestrone usa arroz integral seco, no pasta."
+    ],
+    "storage": "La fuente indica que admite congelación. Separa en porciones y consulta el enlace original para sus plazos; descongela en la nevera y recalienta completamente.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "azúcar de coco"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-minestrone-soup/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-14.jpg",
+    "video": "assets/ld-14.mp4",
+    "videoSource": "https://videos.scriptwrapper.com/618/kjx43hj79vye3bwswe4p/original/video.mp4",
+    "mediaNote": "Video descargado del archivo publicado por la fuente; disponible sin internet.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-15",
+    "title": "Crema de auyama, coco y jengibre",
+    "category": "Cena",
+    "description": "Crema de pocos ingredientes y una textura muy suave.",
+    "servings": 4,
+    "yieldLabel": "4 raciones",
+    "minutes": 30,
+    "activeMinutes": 15,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "aceite de coco",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "cebolla",
+        "amount": "1 mediana",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "2 dientes",
+        "optional": false
+      },
+      {
+        "name": "jengibre fresco",
+        "amount": "1 cucharadita, picado fino",
+        "optional": false
+      },
+      {
+        "name": "tomillo seco",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "pimienta de cayena",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "auyama",
+        "amount": "1 kg (9 tazas), ya pelada y en cubos",
+        "optional": false
+      },
+      {
+        "name": "crema de coco sin azúcar",
+        "amount": "400 ml",
+        "optional": false
+      },
+      {
+        "name": "caldo vegetal",
+        "amount": "360 ml (1½ tazas)",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "al gusto",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra",
+        "amount": "al gusto",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Pela la auyama, retira semillas y corta 1 kg de pulpa en cubos pequeños parecidos. Pica la cebolla, machaca los dientes de ajo y pica finamente el jengibre.",
+      "Calienta 1 cucharada de aceite de coco en un caldero a fuego medio. Añade cebolla, ajo y jengibre y remueve. Incorpora tomillo y cayena y sigue cocinando hasta que la cebolla esté blanda, sin quemar el ajo.",
+      "Añade los 400 ml de crema de coco, 360 ml de caldo y los cubos de auyama. Mezcla bien y espera a que empiece a hervir.",
+      "Baja el fuego y cocina suavemente unos 10 minutos o hasta que la auyama esté muy tierna. El tamaño del corte puede cambiar el tiempo: comprueba que un tenedor la atraviese fácilmente.",
+      "Apaga el fuego. Deja templar y licúa por tandas hasta obtener una crema lisa. Sigue las instrucciones de tu licuadora para líquidos calientes y nunca selles vapor hirviendo. Devuelve al caldero y calienta suavemente si hace falta.",
+      "Prueba y añade sal y pimienta poco a poco. Sirve caliente en raciones individuales."
+    ],
+    "equipment": [
+      "estufa",
+      "caldero",
+      "licuadora",
+      "cuchillo",
+      "medidores"
+    ],
+    "alternatives": [
+      {
+        "equipment": "licuadora de inmersión",
+        "alternative": "Licuadora de vaso por tandas; deja templar antes."
+      }
+    ],
+    "substitutions": [
+      "La fuente admite otro aceite vegetal en lugar de aceite de coco."
+    ],
+    "storage": "La fuente indica que admite congelación. Separa en porciones y consulta el enlace original para sus plazos; descongela en la nevera y recalienta completamente.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "crema de coco sin azúcar"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-pumpkin-soup/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-15.jpg",
+    "video": "assets/ld-15.mp4",
+    "videoSource": "https://videos.scriptwrapper.com/618/ejfkscrlv78gudgkvpea/original/video.mp4",
+    "mediaNote": "Video descargado del archivo publicado por la fuente; disponible sin internet.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-16",
+    "title": "Wok de tofu y vegetales",
+    "category": "Cena",
+    "description": "Tofu dorado con salsa de jengibre, soya y ajonjolí.",
+    "servings": 4,
+    "yieldLabel": "4 raciones",
+    "minutes": 40,
+    "activeMinutes": 30,
+    "difficulty": "Media",
+    "ingredients": [
+      {
+        "name": "tofu extrafirme",
+        "amount": "450 g",
+        "optional": false
+      },
+      {
+        "name": "aceite de ajonjolí",
+        "amount": "3 cucharadas para saltear, más 1 cucharada de aceite tostado para la salsa",
+        "optional": false
+      },
+      {
+        "name": "arveja china",
+        "amount": "200 g (2½ tazas), tipo sugar snap",
+        "optional": false
+      },
+      {
+        "name": "ají morrón",
+        "amount": "4 medianos, colores variados",
+        "optional": false
+      },
+      {
+        "name": "champiñón",
+        "amount": "240 g (2½ tazas), en láminas",
+        "optional": false
+      },
+      {
+        "name": "maíz baby",
+        "amount": "200 g (1½ tazas), troceado",
+        "optional": false
+      },
+      {
+        "name": "cebollín",
+        "amount": "½ taza, en rodajas; más para servir opcional",
+        "optional": false
+      },
+      {
+        "name": "salsa de soya",
+        "amount": "60 ml (¼ taza)",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "2 dientes, machacados",
+        "optional": false
+      },
+      {
+        "name": "jengibre fresco",
+        "amount": "1 cucharada, picado muy fino",
+        "optional": false
+      },
+      {
+        "name": "ají seco en hojuelas",
+        "amount": "¼ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "vinagre de arroz",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "sirope de arce",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "azúcar morena",
+        "amount": "2 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "fécula de maíz",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "semilla de ajonjolí",
+        "amount": "para servir",
+        "optional": true
+      },
+      {
+        "name": "arroz basmati seco",
+        "amount": "para acompañar, cantidad según envase",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Escurre el tofu. Ponlo en un plato, coloca otro plato encima y una olla pesada pero estable sobre este. Déjalo prensar 30 minutos para expulsar agua; después descarta el líquido y corta el tofu en cubos. Este reposo es adicional: la fuente indica 40 minutos de preparación y cocción, además del prensado.",
+      "Mientras se prensa, lava y corta arvejas, ajíes y champiñones; escurre el maíz baby si viene en lata. Corta el cebollín. Deja todos los vegetales listos antes de saltear.",
+      "En una jarrita mezcla 60 ml de salsa de soya, 1 cucharada de aceite de ajonjolí tostado, ajo, jengibre, hojuelas de ají, vinagre de arroz, sirope de arce, azúcar y fécula de maíz. Bate hasta que no queden grumos secos de fécula.",
+      "Calienta 2 cucharadas de aceite de ajonjolí en el wok a fuego medio. Añade los cubos de tofu y dóralos, girándolos con cuidado para que varias caras tomen color. Retira el tofu a un plato.",
+      "Añade al wok la cucharada restante de aceite para saltear. Incorpora arvejas chinas, ajíes, champiñones y maíz baby. Remueve unos minutos: deben ablandarse pero conservar firmeza.",
+      "Devuelve el tofu al wok y añade ½ taza de cebollín. Remueve la salsa preparada de nuevo, porque la fécula se deposita en el fondo, y viértela. Cocina removiendo un par de minutos hasta que espese y cubra los vegetales. Sirve con ajonjolí y arroz opcionales."
+    ],
+    "equipment": [
+      "estufa",
+      "wok",
+      "platos",
+      "caldero",
+      "espátula",
+      "medidores"
+    ],
+    "alternatives": [
+      {
+        "equipment": "prensa de tofu",
+        "alternative": "Dos platos y una olla pesada estable durante 30 minutos."
+      },
+      {
+        "equipment": "wok",
+        "alternative": "Sartén grande con espacio suficiente para mover los ingredientes."
+      }
+    ],
+    "substitutions": [
+      "La prensa de tofu puede sustituirse por dos platos y una olla estable, como indica la fuente.",
+      "Una sartén amplia sustituye el wok; cocina por tandas si es necesario."
+    ],
+    "storage": "Guarda las sobras tapadas en la nevera. Conserva los componentes frescos y el aderezo por separado cuando corresponda. Esta ficha no recomienda congelación.",
+    "freezer": false,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "tofu extrafirme",
+      "arveja china",
+      "maíz baby",
+      "aceite de ajonjolí",
+      "vinagre de arroz",
+      "sirope de arce"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-stir-fry/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-16.jpg",
+    "video": null,
+    "videoSource": null,
+    "mediaNote": "La ficha de origen no publica un video descargable. Incluye foto real guardada y enlace original.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-17",
+    "title": "Ensalada de garbanzos y aguacate",
+    "category": "Cena",
+    "description": "Vegetales frescos y garbanzos de lata con aderezo de tahini.",
+    "servings": 4,
+    "yieldLabel": "4 raciones",
+    "minutes": 15,
+    "activeMinutes": 15,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "lechuga romana",
+        "amount": "3 tazas (1 cabeza pequeña), picada",
+        "optional": false
+      },
+      {
+        "name": "ají morrón rojo",
+        "amount": "1 mediano",
+        "optional": false
+      },
+      {
+        "name": "cebolla roja",
+        "amount": "½ pequeña",
+        "optional": false
+      },
+      {
+        "name": "tomate cherry",
+        "amount": "1 taza, cortado",
+        "optional": false
+      },
+      {
+        "name": "pepino",
+        "amount": "2 tazas, cortado",
+        "optional": false
+      },
+      {
+        "name": "garbanzo de lata",
+        "amount": "1 lata de 425 g, escurrida",
+        "optional": false
+      },
+      {
+        "name": "aguacate",
+        "amount": "1 grande o 2 pequeños",
+        "optional": false
+      },
+      {
+        "name": "cilantro fresco",
+        "amount": "¼ taza, picado",
+        "optional": false
+      },
+      {
+        "name": "orégano seco",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra",
+        "amount": "¼ cucharadita para la ensalada + ⅛ cucharadita para el aderezo",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "⅛ cucharadita para la ensalada + ⅛ cucharadita para el aderezo",
+        "optional": false
+      },
+      {
+        "name": "tahini",
+        "amount": "60 ml (¼ taza), para el aderezo",
+        "optional": false
+      },
+      {
+        "name": "limón amarillo",
+        "amount": "2 cucharadas de jugo, para el aderezo",
+        "optional": false
+      },
+      {
+        "name": "sirope de arce",
+        "amount": "1 cucharada, para el aderezo",
+        "optional": false
+      },
+      {
+        "name": "vinagre de arroz",
+        "amount": "1 cucharada, para el aderezo",
+        "optional": false
+      },
+      {
+        "name": "aceite de ajonjolí tostado",
+        "amount": "1 cucharada, para el aderezo",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "½ cucharadita, machacado, para el aderezo",
+        "optional": false
+      },
+      {
+        "name": "agua",
+        "amount": "2 cucharadas, para el aderezo",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Lava y seca la lechuga y los demás vegetales. Pica la lechuga y el ají; corta la cebolla en láminas finas, los tomates a la mitad y el pepino en rodajas. Escurre y enjuaga los garbanzos de lata.",
+      "Coloca la lechuga en una ensaladera grande. Añade ají, cebolla, tomate, pepino y los garbanzos; mezcla para distribuirlos.",
+      "Pela y corta el aguacate justo antes de servir. Añádelo junto con ¼ taza de cilantro, 1 cucharadita de orégano, ¼ cucharadita de pimienta y ⅛ de sal. Mezcla suavemente para no deshacer el aguacate.",
+      "Prepara el aderezo enlazado por la fuente: bate 60 ml de tahini, 2 cucharadas de jugo de limón, 1 de sirope, 1 de vinagre de arroz, 1 de aceite de ajonjolí tostado, ½ cucharadita de ajo, 2 cucharadas de agua, ⅛ cucharadita de sal y ⅛ de pimienta. Debe quedar uniforme y sin grumos.",
+      "La receta de aderezo enlazada rinde unas 10 cucharadas; añade a la ensalada la cantidad que prefieras y guarda el resto aparte. Si guardarás porciones para otro día, mantén separados aderezo y aguacate hasta servir."
+    ],
+    "equipment": [
+      "ensaladera",
+      "bol",
+      "cuchillo",
+      "colador",
+      "medidores"
+    ],
+    "alternatives": [],
+    "substitutions": [
+      "Esta ficha desarrolla el aderezo enlazado por la receta original para que puedas ver todos sus ingredientes. Fuente adicional: https://lovingitvegan.com/tahini-salad-dressing/"
+    ],
+    "storage": "Guarda las sobras tapadas en la nevera. Conserva los componentes frescos y el aderezo por separado cuando corresponda. Esta ficha no recomienda congelación.",
+    "freezer": false,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "tahini",
+      "sirope de arce",
+      "vinagre de arroz",
+      "aceite de ajonjolí tostado"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-chickpea-salad/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-17.jpg",
+    "video": null,
+    "videoSource": null,
+    "mediaNote": "La ficha de origen no publica un video descargable. Incluye foto real guardada y enlace original.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-18",
+    "title": "Ensalada de papas asadas y cebolla",
+    "category": "Cena",
+    "description": "Papas doradas con aderezo cremoso vegano y cebolla glaseada.",
+    "servings": 8,
+    "yieldLabel": "8 raciones",
+    "minutes": 45,
+    "activeMinutes": 20,
+    "difficulty": "Media",
+    "ingredients": [
+      {
+        "name": "papa",
+        "amount": "2 kg (10 medianas), peso antes de pelar",
+        "optional": false
+      },
+      {
+        "name": "aceite de oliva",
+        "amount": "1 cucharada para las papas + 1 cucharadita para la cebolla",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "⅛ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra",
+        "amount": "⅛ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "cebolla",
+        "amount": "1 mediana",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "1 cucharadita, machacado",
+        "optional": false
+      },
+      {
+        "name": "salsa de soya",
+        "amount": "2 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "sirope de arce",
+        "amount": "2 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "romero seco",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "humo líquido",
+        "amount": "⅛ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "mayonesa vegana",
+        "amount": "240 g (1 taza)",
+        "optional": false
+      },
+      {
+        "name": "mostaza Dijon",
+        "amount": "1½ cucharadas",
+        "optional": false
+      },
+      {
+        "name": "vinagre blanco",
+        "amount": "1½ cucharadas",
+        "optional": false
+      },
+      {
+        "name": "cebollín",
+        "amount": "¼ taza, picado",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Pela las papas y córtalas en trozos de tamaño parecido. Mézclalas con 1 cucharada de aceite, ⅛ cucharadita de sal y ⅛ de pimienta.",
+      "Distribuye las papas en una bandeja cubierta con papel para hornear, en una sola capa. Hornea unos 35 minutos, hasta que estén doradas y un tenedor entre sin resistencia. Sácalas con guantes y deja que se enfríen.",
+      "Mientras se asan, pica la cebolla y ponla en una sartén con 1 cucharadita de aceite y 1 de ajo. Añade 2 cucharadas de salsa de soya, 2 de sirope, 1 cucharadita de romero y ⅛ de cucharadita de humo líquido. Cocina a fuego medio, removiendo, hasta que la cebolla esté blanda y el líquido forme una cobertura pegajosa. Retira del fuego.",
+      "En un bol grande bate 240 g de mayonesa vegana, 1½ cucharadas de mostaza Dijon y 1½ de vinagre blanco. Incorpora la cebolla preparada y ¼ taza de cebollín picado.",
+      "Añade las papas asadas ya enfriadas y mezcla con movimientos suaves desde el fondo hacia arriba. Evita machacarlas. Sirve o guarda tapada en la nevera."
+    ],
+    "equipment": [
+      "horno",
+      "estufa",
+      "bandeja para horno",
+      "sartén",
+      "bol",
+      "medidores"
+    ],
+    "alternatives": [],
+    "substitutions": [
+      "Debe usarse mayonesa expresamente vegana, sin huevo.",
+      "El humo líquido es muy concentrado: mide ⅛ cucharadita, no una cucharada."
+    ],
+    "storage": "Guarda las sobras tapadas en la nevera. Conserva los componentes frescos y el aderezo por separado cuando corresponda. Esta ficha no recomienda congelación.",
+    "freezer": false,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "humo líquido",
+      "sirope de arce",
+      "mayonesa vegana",
+      "mostaza Dijon"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-potato-salad/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-18.jpg",
+    "video": "assets/ld-18.mp4",
+    "videoSource": "https://videos.scriptwrapper.com/618/vyvs8nnbpr4ouprwcvqu/original/video.mp4",
+    "mediaNote": "Video descargado del archivo publicado por la fuente; disponible sin internet.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-19",
+    "title": "Ensalada de pasta con vegetales",
+    "category": "Cena",
+    "description": "Pasta corta, vegetales crudos y aderezo de soya y ajonjolí.",
+    "servings": 6,
+    "yieldLabel": "6 raciones",
+    "minutes": 15,
+    "activeMinutes": 15,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "apio",
+        "amount": "2 tallos medianos",
+        "optional": false
+      },
+      {
+        "name": "ají morrón rojo",
+        "amount": "1 mediano",
+        "optional": false
+      },
+      {
+        "name": "ají morrón amarillo",
+        "amount": "1 mediano",
+        "optional": false
+      },
+      {
+        "name": "cebollín",
+        "amount": "2 unidades",
+        "optional": false
+      },
+      {
+        "name": "tomate cherry",
+        "amount": "20 unidades",
+        "optional": false
+      },
+      {
+        "name": "pepino",
+        "amount": "2 pequeños",
+        "optional": false
+      },
+      {
+        "name": "aceituna verde",
+        "amount": "20 unidades, sin hueso",
+        "optional": false
+      },
+      {
+        "name": "pasta corta sin huevo",
+        "amount": "450 g, peso seco",
+        "optional": false
+      },
+      {
+        "name": "aceite de ajonjolí",
+        "amount": "2 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "salsa de soya",
+        "amount": "3 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "sirope de arce",
+        "amount": "2 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "½ cucharadita, machacado",
+        "optional": false
+      },
+      {
+        "name": "albahaca seca",
+        "amount": "¼ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "orégano seco",
+        "amount": "¼ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "mayonesa vegana",
+        "amount": "¼–½ taza",
+        "optional": true
+      },
+      {
+        "name": "perejil fresco",
+        "amount": "para servir",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Lleva agua a hervor en una olla y cocina los 450 g de pasta siguiendo el tiempo y la cantidad de agua del envase. Elige pasta sin huevo. Prueba una pieza antes de escurrir: debe estar tierna, sin centro duro.",
+      "Mientras se cocina, lava y corta apio, ajíes, cebollín y pepino en trozos pequeños. Parte tomates y aceitunas por la mitad y comprueba que estas últimas no tengan huesos.",
+      "En una jarrita mezcla 2 cucharadas de aceite de ajonjolí, 3 de salsa de soya, 2 de sirope, ½ cucharadita de ajo, ¼ de albahaca seca y ¼ de orégano. Bate hasta integrar.",
+      "Escurre la pasta, enjuágala como indica esta receta para enfriarla y deja que pierda el exceso de agua. Pásala a una ensaladera y mezcla con todos los vegetales.",
+      "Añade el aderezo y remueve. Si quieres la versión cremosa, incorpora ¼ taza de mayonesa vegana; añade hasta ½ taza si lo prefieres. Es opcional. Sirve con perejil y guarda las sobras tapadas en la nevera."
+    ],
+    "equipment": [
+      "estufa",
+      "caldero",
+      "colador",
+      "ensaladera",
+      "cuchillo",
+      "medidores"
+    ],
+    "alternatives": [],
+    "substitutions": [
+      "La fuente permite pasta tipo lazo, penne, conchitas, coditos o fusilli. Debe ser sin huevo.",
+      "La mayonesa vegana es opcional."
+    ],
+    "storage": "Guarda las sobras tapadas en la nevera. Conserva los componentes frescos y el aderezo por separado cuando corresponda. Esta ficha no recomienda congelación.",
+    "freezer": false,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "aceite de ajonjolí",
+      "sirope de arce"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-pasta-salad/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-19.jpg",
+    "video": "assets/ld-19.mp4",
+    "videoSource": "https://videos.scriptwrapper.com/618/jybojkcqfkuphxgszw04/original/video.mp4",
+    "mediaNote": "Video descargado del archivo publicado por la fuente; disponible sin internet.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  },
+  {
+    "id": "ld-20",
+    "title": "Pasta cremosa de champiñones",
+    "category": "Cena",
+    "description": "Pasta con una salsa espesa de hongos y leche de coco.",
+    "servings": 4,
+    "yieldLabel": "4 raciones",
+    "minutes": 30,
+    "activeMinutes": 20,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "mantequilla vegana",
+        "amount": "45 g (3 cucharadas)",
+        "optional": false
+      },
+      {
+        "name": "cebolla",
+        "amount": "1 mediana",
+        "optional": false
+      },
+      {
+        "name": "champiñón",
+        "amount": "480 g (5 tazas), en láminas",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "1 cucharada, machacado",
+        "optional": false
+      },
+      {
+        "name": "orégano seco",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "harina de trigo",
+        "amount": "4 cucharadas, de todo uso",
+        "optional": false
+      },
+      {
+        "name": "leche de coco sin azúcar",
+        "amount": "400 ml, entera",
+        "optional": false
+      },
+      {
+        "name": "caldo vegetal",
+        "amount": "80 ml (⅓ taza)",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "mostaza Dijon",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "penne sin huevo",
+        "amount": "226 g, peso seco",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Pon agua a hervir y cocina los 226 g de penne según el tiempo del envase. Usa pasta sin huevo. Mientras tanto, pica muy fina la cebolla, limpia y corta los champiñones y machaca el ajo.",
+      "En una olla o sartén profunda derrite los 45 g de mantequilla vegana a fuego medio. Añade la cebolla y remueve hasta ablandarla; evita que se queme la mantequilla.",
+      "Agrega los 480 g de champiñones, 1 cucharada de ajo y 1 cucharadita de orégano. Cocina removiendo hasta que los hongos se ablanden y suelten parte de su agua.",
+      "Espolvorea las 4 cucharadas de harina sobre los champiñones y remueve durante aproximadamente 1 minuto. La harina debe humedecerse y mezclarse, sin quedar montones secos.",
+      "Vierte poco a poco los 400 ml de leche de coco y los 80 ml de caldo mientras remueves. Sigue moviendo hasta que la salsa burbujee suavemente y espese; debe cubrir la cuchara. Añade ½ cucharadita de sal, 1 de pimienta y 1 de mostaza Dijon y mezcla.",
+      "Escurre la pasta y añádela a la salsa. Remueve suavemente hasta cubrir cada pieza y sirve caliente. Prueba antes de añadir más sal, porque el caldo puede ser salado."
+    ],
+    "equipment": [
+      "estufa",
+      "sartén profunda",
+      "caldero",
+      "colador",
+      "cuchillo",
+      "medidores"
+    ],
+    "alternatives": [],
+    "substitutions": [
+      "Usa leche de coco entera sin azúcar, no la bebida muy diluida ni crema dulce de cócteles."
+    ],
+    "storage": "Guarda las sobras tapadas en la nevera. Conserva los componentes frescos y el aderezo por separado cuando corresponda. Esta ficha no recomienda congelación.",
+    "freezer": false,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "mantequilla vegana",
+      "mostaza Dijon",
+      "leche de coco sin azúcar"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-mushroom-pasta/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ld-20.jpg",
+    "video": "assets/ld-20.mp4",
+    "videoSource": "https://videos.scriptwrapper.com/618/m77jhzmkxq37doanmx2x/original/video.mp4",
+    "mediaNote": "Video descargado del archivo publicado por la fuente; disponible sin internet.",
+    "editorialNote": "Medidas y método comprobados en la fuente. Explicaciones reescritas en español para principiantes; no es una receta probada personalmente. Los acompañamientos opcionales no se incluyen en el cálculo de faltantes."
+  }
+]

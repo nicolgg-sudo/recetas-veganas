@@ -1,0 +1,237 @@
+[
+  {
+    "id": "pt-640777853282491492",
+    "title": "Pan plano de papa, hierbas y queso vegano",
+    "category": "Snack",
+    "description": "Pan suave de sartén, sin levadura ni levado. Se cocina en cuatro piezas y permite congelar una tanda.",
+    "servings": 4,
+    "yieldLabel": "4 panes planos",
+    "minutes": 55,
+    "activeMinutes": 15,
+    "difficulty": "Media",
+    "ingredients": [
+      {
+        "name": "papa",
+        "amount": "4 medianas, peladas",
+        "optional": false
+      },
+      {
+        "name": "agua",
+        "amount": "cantidad necesaria para cubrir las papas al hervir",
+        "optional": false
+      },
+      {
+        "name": "harina de trigo",
+        "amount": "250 g, más la necesaria para enharinar la mesa",
+        "optional": false
+      },
+      {
+        "name": "queso vegano",
+        "amount": "50 g, rallado",
+        "optional": false
+      },
+      {
+        "name": "perejil fresco",
+        "amount": "3 cucharadas, picado fino",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "1 cucharadita para la masa, más la necesaria para el agua de cocción",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra molida",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "ajo en polvo",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "ají seco en hojuelas",
+        "amount": "½ cucharadita",
+        "optional": true
+      },
+      {
+        "name": "mantequilla vegana",
+        "amount": "cantidad necesaria para dorar los panes; la fuente no fija un peso",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Pela 4 papas medianas y ponlas en un caldero. Añade agua hasta cubrirlas y sala ligeramente el agua; la cucharadita de sal de la lista se reserva para la masa. Lleva a ebullición y cocina unos 15–20 minutos: un tenedor debe entrar hasta el centro sin resistencia.",
+      "Escurre completamente las papas con un colador. Déjalas unos minutos para que salga el exceso de vapor; una papa muy mojada pide más harina y endurece el pan. Pásalas a un bowl y aplástalas con tenedor o majador hasta que no queden grumos. Espera a que estén tibias y puedas tocarlas sin quemarte.",
+      "Agrega a la papa tibia 250 g de harina, 50 g de queso vegano rallado, 3 cucharadas de perejil, 1 cucharadita de sal, ½ de pimienta y ½ de ajo en polvo. Si quieres picante, añade ½ cucharadita de hojuelas de ají. Une con las manos limpias solo hasta obtener una masa suave y ligeramente adherente; no amases de más. Si se pega de forma que no puedes trabajarla, añade harina de a pequeñas espolvoreadas.",
+      "Enharina la mesa, coloca la masa y divídela en cuatro partes similares. Con rodillo, estira cada parte en un círculo de 3–4 mm de grosor. Espolvorea harina debajo y encima si se pega: debe poder levantarse sin romperse.",
+      "Calienta una sartén grande a fuego medio, inicialmente sin grasa. Coloca un pan y cocina 2–3 minutos por lado, hasta que se vean manchas doradas. Añade un pequeño trocito de mantequilla vegana y extiéndelo por la superficie mientras se cocina; da la vuelta para dorar ese lado. Ajusta el fuego si se oscurece antes de que se afirme el centro.",
+      "Repite con las otras tres piezas. Mantén los panes cocinados envueltos en un paño limpio para que no se resequen mientras terminas. Sirve tibios, enteros o cortados en cuartos."
+    ],
+    "equipment": [
+      "estufa",
+      "caldero",
+      "colador",
+      "bowl",
+      "tenedor",
+      "rodillo",
+      "sartén",
+      "espátula",
+      "medidores",
+      "báscula",
+      "paño de cocina"
+    ],
+    "alternatives": [
+      {
+        "equipment": "majador de papas",
+        "alternative": "Un tenedor resistente sirve para aplastar las papas hasta que no queden grumos."
+      }
+    ],
+    "substitutions": [
+      "La fuente permite omitir los 50 g de queso vegano y usar 1 cucharada de levadura nutricional para dar sabor; será una variante del original.",
+      "La fuente usa harina de trigo de todo uso. No presenta una versión sin gluten probada."
+    ],
+    "storage": "Refrigera pronto las sobras en un recipiente hermético hasta 2 días. La fuente permite congelar los panes cocinados, separados con papel para hornear, hasta 1 mes. Recalienta en sartén a fuego medio-bajo hasta que estén calientes por dentro; los congelados pueden ir directamente a la sartén.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "queso vegano"
+    ],
+    "source": {
+      "url": "https://drveganblog.com/potato-flatbread-with-herbs-no-yeast/",
+      "author": "Ahmad Noori",
+      "name": "Dr. Vegan"
+    },
+    "pinterestUrl": "https://uk.pinterest.com/pin/640777853282491492/",
+    "collection": "Mi tablero de Pinterest",
+    "image": "assets/pt-640777853282491492.jpg",
+    "video": "assets/pt-640777853282491492.mp4",
+    "mediaNote": "Video original del pin guardado en la laptop; también se conserva el enlace de Pinterest y la receta del autor.",
+    "adaptationKind": "source"
+  },
+  {
+    "id": "pt-640777853282491514",
+    "title": "Rollos de canela veganos con glaseado",
+    "category": "Postre",
+    "description": "Nueve rollos de masa suave con relleno de canela y glaseado sencillo. Requieren dos levados y tiempo de enfriado.",
+    "servings": 9,
+    "yieldLabel": "9 rollos",
+    "minutes": 170,
+    "activeMinutes": 30,
+    "difficulty": "Media",
+    "ingredients": [
+      {
+        "name": "leche de almendra",
+        "amount": "1 taza para la masa + 1½ cucharadas para el glaseado, más un poco para pincelar",
+        "optional": false
+      },
+      {
+        "name": "levadura de panadería instantánea",
+        "amount": "2½ cucharaditas",
+        "optional": false
+      },
+      {
+        "name": "azúcar blanca",
+        "amount": "¼ taza",
+        "optional": false
+      },
+      {
+        "name": "aceite vegetal",
+        "amount": "⅓ taza para la masa y un poco más para engrasar",
+        "optional": false
+      },
+      {
+        "name": "harina de trigo",
+        "amount": "3⅓ tazas, más pequeñas espolvoreadas para trabajar si hace falta",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "mantequilla vegana",
+        "amount": "¼ taza, blanda, para el relleno",
+        "optional": false
+      },
+      {
+        "name": "azúcar morena",
+        "amount": "½ taza",
+        "optional": false
+      },
+      {
+        "name": "canela molida",
+        "amount": "4 cucharaditas",
+        "optional": false
+      },
+      {
+        "name": "azúcar en polvo",
+        "amount": "¾ taza",
+        "optional": false
+      },
+      {
+        "name": "extracto de vainilla",
+        "amount": "½ cucharadita",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Mide los ingredientes antes de empezar. Entibia 1 taza de leche de almendra: debe sentirse apenas cálida, no caliente. En un bowl grande mezcla esa leche con 2½ cucharaditas de levadura instantánea, ¼ taza de azúcar blanca y ⅓ taza de aceite vegetal. Remueve y deja reposar 1 minuto. Lee tu envase: si usas levadura seca activa en vez de instantánea y exige activación previa, sigue esa indicación.",
+      "Añade 3⅓ tazas de harina y 1 cucharadita de sal. Mezcla con cuchara hasta reunir una bola. Pasa a una mesa con muy poca harina y amasa 5–8 minutos: empuja la masa con la base de la mano, dóblala y repite, girándola. Debe quedar lisa, elástica y suave; si se pega, espolvorea solo un poco de harina cada vez, sin volverla dura.",
+      "Unta ligeramente un bowl grande y la bola de masa con aceite. Cubre con un paño húmedo o una cubierta que deje espacio para crecer. Deja en un lugar tibio, sin corrientes, alrededor de 1½ horas o hasta duplicar su volumen. La señal que importa es el tamaño, no solo el reloj; en una cocina más cálida puede variar.",
+      "Mientras leva, mezcla con un tenedor ¼ taza de mantequilla vegana blanda, ½ taza de azúcar morena y 4 cucharaditas de canela. Debe quedar una pasta que puedas untar. Si se derrite y se vuelve líquida, refrigérala hasta recuperar una consistencia extendible.",
+      "Cuando la masa duplique su volumen, pásala a la mesa. Dobla sus bordes hacia el centro cinco veces. Espolvorea un poco de harina y estira con rodillo hasta formar un rectángulo de 30 × 40 cm. Intenta mantener las esquinas rectas. Unta el relleno uniformemente dejando aproximadamente ½ cm libre en los bordes.",
+      "Enrolla desde uno de los lados cortos, ajustando la masa sin aplastarla, hasta formar un cilindro. Estíralo suavemente con las manos hasta unos 28 cm de largo. Corta nueve rollos de unos 3 cm con cuchillo de sierra; también puedes pasar hilo dental sin sabor debajo, cruzarlo por arriba y tirar de los extremos para cortar sin comprimir.",
+      "Engrasa un molde cuadrado de 25 × 25 cm o uno redondo de 23 cm. Acomoda los nueve rollos con el corte hacia arriba. Déjalos levar de nuevo en lugar tibio durante unos 40 minutos, hasta que se vean más inflados.",
+      "Precalienta el horno a 180 °C / 350 °F. Pincela la superficie con un poco de leche vegetal y hornea cuando el horno esté caliente, aproximadamente 20–25 minutos. Deben verse dorados y cocidos, con los centros firmes; un molde alto puede requerir el extremo superior de ese tiempo.",
+      "Saca el molde con guantes y deja enfriar 15 minutos. Bate en un bowl ¾ taza de azúcar en polvo, 1½ cucharadas de leche vegetal y ½ cucharadita de vainilla, hasta que el glaseado sea liso y se pueda verter. Reparte sobre los rollos y sirve."
+    ],
+    "equipment": [
+      "horno",
+      "bowl",
+      "cuchara",
+      "tenedor",
+      "rodillo",
+      "molde cuadrado de 25 cm",
+      "cuchillo de sierra",
+      "paño de cocina",
+      "medidores"
+    ],
+    "alternatives": [
+      {
+        "equipment": "molde cuadrado de 25 cm",
+        "alternative": "La fuente también permite un molde redondo de 23 cm. Un molde alto puede necesitar unos minutos más de horneado."
+      },
+      {
+        "equipment": "cuchillo de sierra",
+        "alternative": "Hilo dental limpio y sin sabor: colócalo debajo del cilindro y cruza los extremos arriba para cortar sin aplastar."
+      }
+    ],
+    "substitutions": [
+      "La fuente permite cualquier leche vegetal en lugar de almendra, incluida la de soya o avena.",
+      "El aceite de canola puede sustituirse por aceite de girasol, aguacate u oliva suave. Para el relleno conserva mantequilla vegana blanda.",
+      "Esta ficha incluye únicamente el glaseado sencillo completo. Las coberturas de queso crema que aparecen como variantes en la fuente no son necesarias."
+    ],
+    "storage": "La fuente permite congelar los rollos horneados, bien envueltos, hasta 3 meses. Descongela en la nevera durante la noche y recalienta en microondas 1–2 minutos antes de servir. Para preparar por adelantado la masa, la fuente ofrece otra opción de congelación antes del segundo levado; consulta el enlace para ese procedimiento.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "mantequilla vegana"
+    ],
+    "source": {
+      "url": "https://theplantbasedschool.com/vegan-cinnamon-rolls/",
+      "author": "Nico Pallotta",
+      "name": "The Plant Based School"
+    },
+    "pinterestUrl": "https://uk.pinterest.com/pin/640777853282491514/",
+    "collection": "Mi tablero de Pinterest",
+    "image": "assets/pt-640777853282491514.jpg",
+    "video": "assets/pt-640777853282491514.mp4",
+    "mediaNote": "Foto real del pin guardada; el video todavía no pudo descargarse. Se conserva Pinterest y la fuente original.",
+    "waitNote": "El tiempo de la fuente incluye unos dos horas de levado. Sus pasos pautan aproximadamente 90 + 40 minutos, que pueden variar según la temperatura. Añade 15 minutos de enfriado antes de glasear.",
+    "editorialNote": "Cantidades verificadas en la receta original, no en la extracción automática de Pinterest, que mostraba cifras incorrectas para harina y levadura.",
+    "adaptationKind": "source"
+  }
+]

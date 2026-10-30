@@ -1,0 +1,1016 @@
+[
+  {
+    "id": "ds-vegan-chocolate-cake",
+    "title": "Bizcocho de chocolate sin cobertura",
+    "category": "Postre",
+    "description": "Bizcocho húmedo de cacao, sin huevo ni lácteos. Adaptación sencilla de la fuente: se prepara solo el bizcocho y se omiten sus coberturas.",
+    "servings": 10,
+    "yieldLabel": "10 porciones",
+    "minutes": 40,
+    "activeMinutes": 15,
+    "difficulty": "Media",
+    "ingredients": [
+      {
+        "name": "harina de trigo",
+        "amount": "1½ tazas (188 g), de todo uso",
+        "optional": false
+      },
+      {
+        "name": "cacao en polvo",
+        "amount": "½ taza (43 g), sin azúcar",
+        "optional": false
+      },
+      {
+        "name": "azúcar blanca",
+        "amount": "1 taza (200 g)",
+        "optional": false
+      },
+      {
+        "name": "bicarbonato de sodio",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "linaza molida",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "agua",
+        "amount": "3 cucharadas, caliente, para hidratar la linaza",
+        "optional": false
+      },
+      {
+        "name": "leche de soya",
+        "amount": "1 taza (240 ml), sin ingredientes lácteos",
+        "optional": false
+      },
+      {
+        "name": "extracto de vainilla",
+        "amount": "2 cucharaditas",
+        "optional": false
+      },
+      {
+        "name": "aceite vegetal",
+        "amount": "⅓ taza (80 ml), de sabor neutro",
+        "optional": false
+      },
+      {
+        "name": "vinagre blanco",
+        "amount": "1 cucharada",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Enciende el horno a 180 °C / 350 °F para precalentarlo. Usa dos moldes redondos de 18 cm de diámetro; engrasa ligeramente el interior y coloca papel para hornear en la base. Esta medida de molde importa: un molde más grande cambia la altura y el tiempo.",
+      "Pon 1 cucharada de linaza molida y 3 cucharadas de agua caliente en una taza. Mezcla y deja reposar al menos 1 minuto, hasta que se forme un gel; este gel hace de aglutinante y no contiene huevo.",
+      "Pasa por un colador 188 g de harina y 43 g de cacao sobre un bowl. Añade 200 g de azúcar, 1 cucharadita de bicarbonato y ½ cucharadita de sal. Mezcla los polvos con cuchara para repartir el bicarbonato.",
+      "Agrega el gel de linaza, 240 ml de leche de soya, 2 cucharaditas de vainilla, 80 ml de aceite y 1 cucharada de vinagre. Mezcla con batidor manual o cuchara solo hasta que no se vea harina seca; deja de batir entonces para no endurecer el bizcocho.",
+      "Reparte la mezcla en cantidades similares entre los dos moldes y alisa sin presionar fuerte. Hornea en la rejilla central durante unos 25 minutos. Al introducir un palillo en el centro debe salir sin masa líquida; si aún se pega masa, deja unos minutos más y vuelve a comprobar.",
+      "Saca los moldes con guantes. Deja que pierdan el calor unos minutos, pasa con cuidado un cuchillo por el borde y desmolda sobre una rejilla. Espera a que se enfríen para cortar. Esta versión se sirve sin la cobertura que aparece en la fotografía original."
+    ],
+    "equipment": [
+      "horno",
+      "bowl",
+      "colador",
+      "batidor manual",
+      "molde redondo de 18 cm",
+      "papel para hornear",
+      "rejilla de enfriamiento"
+    ],
+    "alternatives": [
+      {
+        "equipment": "batidor manual",
+        "alternative": "Una cuchara resistente sirve para integrar la masa; detente en cuanto desaparezca la harina seca."
+      },
+      {
+        "equipment": "rejilla de enfriamiento",
+        "alternative": "Usa una rejilla limpia del grill elevada sobre una bandeja; debe circular aire debajo."
+      }
+    ],
+    "substitutions": [
+      "La fuente permite sustituir la leche de soya por otra bebida vegetal y el vinagre blanco por vinagre de manzana.",
+      "Usa aceite vegetal neutro en lugar del aceite de canola de la fuente."
+    ],
+    "storage": "La fuente permite congelar el bizcocho hasta 3 meses. Guárdalo frío, bien envuelto y separado en porciones; descongela en la nevera. En nevera, tapado, la fuente indica hasta una semana.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "linaza molida"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-chocolate-cake/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ds-vegan-chocolate-cake.jpg",
+    "video": null,
+    "mediaNote": "La ficha original no publica un archivo de video directo descargable; se incluye su fotografía y el enlace original. La foto del autor muestra cobertura; esta adaptación incluye únicamente el bizcocho.",
+    "waitNote": "Añade el tiempo de enfriamiento completo antes de cortar."
+  },
+  {
+    "id": "ds-vegan-vanilla-cake",
+    "title": "Bizcocho de vainilla con crema vegana",
+    "category": "Postre",
+    "description": "Dos capas suaves de vainilla y una cobertura de azúcar glas y mantequilla vegetal. Las fresas son opcionales.",
+    "servings": 10,
+    "yieldLabel": "10 porciones",
+    "minutes": 45,
+    "activeMinutes": 15,
+    "difficulty": "Media",
+    "ingredients": [
+      {
+        "name": "harina de trigo",
+        "amount": "1¾ tazas (220 g), de todo uso",
+        "optional": false
+      },
+      {
+        "name": "azúcar blanca",
+        "amount": "1 taza (200 g), para el bizcocho",
+        "optional": false
+      },
+      {
+        "name": "bicarbonato de sodio",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "leche de soya",
+        "amount": "1 taza (240 ml), para el bizcocho, más hasta 4 cucharadas para la cobertura",
+        "optional": false
+      },
+      {
+        "name": "extracto de vainilla",
+        "amount": "2 cucharaditas para el bizcocho y 2 cucharaditas para la cobertura",
+        "optional": false
+      },
+      {
+        "name": "aceite vegetal",
+        "amount": "⅓ taza (80 ml), neutro",
+        "optional": false
+      },
+      {
+        "name": "vinagre blanco",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "azúcar glas",
+        "amount": "3¾ tazas (450 g), para la cobertura",
+        "optional": false
+      },
+      {
+        "name": "mantequilla vegana",
+        "amount": "3 cucharadas (45 g), para la cobertura",
+        "optional": false
+      },
+      {
+        "name": "fresa",
+        "amount": "Al gusto, para decorar",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C / 350 °F. Engrasa dos moldes redondos de 18 cm y cubre sus bases con círculos de papel para hornear. Separa los ingredientes de la cobertura para no añadirlos por error a la masa.",
+      "Tamiza 220 g de harina en un bowl. Añade 200 g de azúcar, 1 cucharadita de bicarbonato y ½ cucharadita de sal. Mezcla los ingredientes secos hasta repartirlos uniformemente.",
+      "Agrega 240 ml de leche de soya, 2 cucharaditas de vainilla, 80 ml de aceite y 1 cucharada de vinagre. Mezcla a mano hasta integrar; no sigas batiendo una vez desaparezcan las zonas de harina seca.",
+      "Divide la masa entre los dos moldes y hornea de 25 a 30 minutos. Revisa el centro con un palillo: debe salir limpio. Saca los moldes con guantes, deja reposar unos minutos y desmolda. La cobertura solo se aplica cuando los bizcochos estén completamente fríos.",
+      "Para la crema, coloca en otro bowl 450 g de azúcar glas, 45 g de mantequilla vegana, las otras 2 cucharaditas de vainilla y 2 cucharadas de leche de soya. Bate con batidora eléctrica empezando a velocidad baja para que el azúcar no salga volando.",
+      "Añade las otras 2 cucharadas de leche muy poco a poco, solo si hace falta. La crema debe poder extenderse con espátula y mantenerse en su sitio; no debe correr como una salsa. Según el agua que tenga tu mantequilla vegetal, quizá no necesites toda la leche.",
+      "Pon una capa de bizcocho en el plato, extiende parte de la crema encima y coloca la otra capa. Cubre la parte superior y los lados con el resto de la crema. Si usas fresas, lávalas y sécalas; colócalas justo al servir para que no humedezcan la cobertura."
+    ],
+    "equipment": [
+      "horno",
+      "bowl",
+      "colador",
+      "molde redondo de 18 cm",
+      "papel para hornear",
+      "batidora eléctrica",
+      "espátula",
+      "rejilla de enfriamiento"
+    ],
+    "alternatives": [
+      {
+        "equipment": "batidora eléctrica",
+        "alternative": "Puedes servir el bizcocho sin cobertura; así también omites el azúcar glas, la mantequilla y la leche/vainilla reservadas para ella. Cambia la presentación respecto a la foto."
+      }
+    ],
+    "substitutions": [
+      "La fuente admite otra bebida vegetal en lugar de soya y vinagre de manzana en lugar de vinagre blanco.",
+      "Revisa que la mantequilla vegetal no contenga leche, suero ni caseína."
+    ],
+    "storage": "La fuente permite congelar hasta 3 meses, con o sin cobertura, pero sin las fresas. Mantén tapado en la nevera hasta una semana. Guarda las fresas aparte y añádelas al servir.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "mantequilla vegana"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-vanilla-cake/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ds-vegan-vanilla-cake.jpg",
+    "video": "assets/ds-vegan-vanilla-cake.mp4",
+    "mediaNote": "Video original descargado para consultar sin conexión.",
+    "waitNote": "Añade enfriamiento completo antes de preparar las capas. El tiempo mostrado no incluye ese reposo."
+  },
+  {
+    "id": "ds-vegan-brownies",
+    "title": "Brownies intensos con linaza",
+    "category": "Postre",
+    "description": "Brownies de cacao con chispas de chocolate veganas y centro húmedo. Se cortan una vez fríos para que mantengan la forma.",
+    "servings": 16,
+    "yieldLabel": "16 porciones",
+    "minutes": 55,
+    "activeMinutes": 15,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "harina de trigo",
+        "amount": "1½ tazas (188 g), de todo uso",
+        "optional": false
+      },
+      {
+        "name": "cacao en polvo",
+        "amount": "1 taza (86 g), sin azúcar",
+        "optional": false
+      },
+      {
+        "name": "polvo de hornear",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "mantequilla vegana",
+        "amount": "¾ taza (170 g)",
+        "optional": false
+      },
+      {
+        "name": "chispas de chocolate veganas",
+        "amount": "½ taza (90 g), para derretir, y 1 taza (175 g), para mezclar",
+        "optional": false
+      },
+      {
+        "name": "linaza molida",
+        "amount": "3 cucharadas",
+        "optional": false
+      },
+      {
+        "name": "agua",
+        "amount": "½ taza (120 ml), caliente",
+        "optional": false
+      },
+      {
+        "name": "azúcar blanca",
+        "amount": "2 tazas (400 g)",
+        "optional": false
+      },
+      {
+        "name": "extracto de vainilla",
+        "amount": "2 cucharaditas",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Mezcla 3 cucharadas de linaza molida con 120 ml de agua caliente en una taza. Déjala hidratar mientras preparas el resto: se convertirá en un gel espeso que ayuda a unir la masa.",
+      "Precalienta el horno a 180 °C / 350 °F. Engrasa un molde cuadrado de 23 × 23 cm y fórralo con papel para hornear, dejando bordes de papel que sobresalgan para levantar los brownies después.",
+      "Tamiza en un bowl 188 g de harina y 86 g de cacao. Añade 1 cucharadita de polvo de hornear y 1 cucharadita de sal. Mezcla para que los polvos queden repartidos.",
+      "Pon 170 g de mantequilla vegana y 90 g de chispas de chocolate en un recipiente apto para microondas. Calienta en intervalos de 30 segundos; entre cada intervalo remueve con cuchara. Detente cuando estén derretidos para no quemar el chocolate.",
+      "A la mezcla derretida añade el gel de linaza, 400 g de azúcar y 2 cucharaditas de vainilla. Integra con un batidor manual. Vierte esto sobre el bowl de harina y remueve con cuchara hasta obtener una masa espesa sin harina suelta.",
+      "Incorpora los otros 175 g de chispas de chocolate, distribuyéndolos en toda la masa. Pasa la masa al molde y alisa con una espátula. La decoración extra de chispas de la fuente se omite aquí para mantener cantidades cerradas.",
+      "Hornea entre 35 y 40 minutos. La superficie debe verse seca y algo brillante. Un palillo puede salir con migas húmedas o chocolate derretido, pero no con masa líquida pegajosa; no busques un centro completamente seco.",
+      "Deja reposar al menos 15 minutos dentro del molde. Levanta usando el papel y coloca sobre una tabla. Espera a que se enfríe por completo antes de dividir en 16 cuadrados: en caliente son frágiles."
+    ],
+    "equipment": [
+      "horno",
+      "microondas",
+      "bowl",
+      "batidor manual",
+      "colador",
+      "molde cuadrado de 23 cm",
+      "papel para hornear",
+      "espátula"
+    ],
+    "alternatives": [
+      {
+        "equipment": "microondas",
+        "alternative": "Derrite mantequilla y chocolate a baño María en un bowl resistente al calor sobre agua apenas hirviendo; el fondo del bowl no debe tocar el agua."
+      }
+    ],
+    "substitutions": [
+      "Comprueba que las chispas de chocolate no contengan leche ni grasa láctea."
+    ],
+    "storage": "La fuente permite congelar hasta 3 meses y conservar tapados en nevera hasta una semana. Descongela durante la noche en la nevera. Congelar cuadrados separados facilita sacar una sola porción.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "mantequilla vegana",
+      "linaza molida",
+      "chispas de chocolate veganas"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-brownies/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ds-vegan-brownies.jpg",
+    "video": null,
+    "mediaNote": "La ficha original no publica un archivo de video directo descargable; se incluye su fotografía y el enlace original.",
+    "waitNote": "Añade al menos 15 minutos de reposo en el molde y el enfriamiento completo antes de cortar."
+  },
+  {
+    "id": "ds-vegan-banana-bread",
+    "title": "Pan dulce de guineo y nueces",
+    "category": "Postre",
+    "description": "Pan de guineo maduro, de miga suave y con nueces opcionales. Útil para congelar en rebanadas.",
+    "servings": 10,
+    "yieldLabel": "10 rebanadas",
+    "minutes": 70,
+    "activeMinutes": 10,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "harina de trigo",
+        "amount": "2 tazas (250 g), de todo uso",
+        "optional": false
+      },
+      {
+        "name": "azúcar blanca",
+        "amount": "½ taza (100 g)",
+        "optional": false
+      },
+      {
+        "name": "azúcar morena",
+        "amount": "½ taza (100 g)",
+        "optional": false
+      },
+      {
+        "name": "polvo de hornear",
+        "amount": "3 cucharaditas",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "¼ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "canela molida",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "guineo maduro",
+        "amount": "1½ tazas de puré; 337 g de guineo pelado",
+        "optional": false
+      },
+      {
+        "name": "leche de soya",
+        "amount": "½ taza (120 ml)",
+        "optional": false
+      },
+      {
+        "name": "aceite de coco",
+        "amount": "¼ taza (55 g), derretido",
+        "optional": false
+      },
+      {
+        "name": "nuez",
+        "amount": "1 taza (100 g), picada",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C / 350 °F. Engrasa un molde rectangular para pan de aproximadamente 23 × 13 cm y forra la base con papel para hornear. Usa guineos maduros de comer, no plátanos verdes.",
+      "Tamiza 250 g de harina en un bowl. Añade 100 g de azúcar blanca, 100 g de azúcar morena, 3 cucharaditas de polvo de hornear, ¼ cucharadita de sal y 1 cucharadita de canela. Mezcla con cuchara.",
+      "Pela los guineos y pesa 337 g, o mide 1½ tazas de puré. Licúa esa cantidad con 120 ml de leche de soya y 55 g de aceite de coco derretido hasta que no queden trozos grandes.",
+      "Vierte el licuado sobre los ingredientes secos. Mezcla con cuchara o espátula solo hasta integrar; raspa el fondo para comprobar que no queden bolsas de harina. Si usarás nueces, incorpora 100 g picados con movimientos suaves.",
+      "Pasa la masa al molde y alisa la superficie. Hornea durante unos 60 minutos en la rejilla central. Comprueba con un palillo introducido en el centro: debe salir limpio, sin masa húmeda adherida.",
+      "Saca el molde con guantes y deja reposar 10 minutos antes de desmoldar. Coloca el pan sobre una rejilla y deja enfriar completamente antes de cortar en unas 10 rebanadas; cortarlo caliente puede deshacer la miga."
+    ],
+    "equipment": [
+      "horno",
+      "licuadora",
+      "bowl",
+      "colador",
+      "molde rectangular de 23 × 13 cm",
+      "papel para hornear",
+      "rejilla de enfriamiento"
+    ],
+    "alternatives": [
+      {
+        "equipment": "licuadora",
+        "alternative": "Tritura muy bien los guineos con tenedor y mezcla con la leche y el aceite; la miga puede quedar menos uniforme."
+      }
+    ],
+    "substitutions": [
+      "Las nueces son opcionales en la fuente.",
+      "La fuente permite mantequilla vegana derretida en lugar de aceite de coco, y otra bebida vegetal en lugar de soya."
+    ],
+    "storage": "La fuente indica congelación hasta 2 meses y hasta una semana en nevera, bien tapado. Congela rebanadas separadas y descongela durante la noche en la nevera.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "nuez"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-banana-bread/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ds-vegan-banana-bread.jpg",
+    "video": null,
+    "mediaNote": "La ficha original no publica un archivo de video directo descargable; se incluye su fotografía y el enlace original.",
+    "waitNote": "Añade 10 minutos en el molde y el enfriamiento posterior antes de rebanar."
+  },
+  {
+    "id": "ds-vegan-chocolate-mousse",
+    "title": "Mousse de cacao, dátiles y coco",
+    "category": "Postre",
+    "description": "Postre cremoso de tres ingredientes, sin horno. Requiere dátiles blandos y crema de coco refrigerada desde la noche anterior.",
+    "servings": 4,
+    "yieldLabel": "4 porciones",
+    "minutes": 25,
+    "activeMinutes": 25,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "crema de coco en lata",
+        "amount": "2 tazas (480 ml) de la parte cremosa separada; se obtiene de unas 2 latas de 400 ml refrigeradas toda la noche",
+        "optional": false
+      },
+      {
+        "name": "dátil Medjool sin hueso",
+        "amount": "2 tazas bien llenas (350 g), blandos",
+        "optional": false
+      },
+      {
+        "name": "cacao en polvo",
+        "amount": "½ taza (42 g), sin azúcar",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "La noche anterior coloca las latas de crema de coco en la nevera, sin agitarlas. Al día siguiente ábrelas y saca con cuchara solo la capa cremosa de arriba, dejando el líquido acuoso en la lata. Mide 480 ml de esa crema; no uses bebida de coco de cartón.",
+      "Comprueba que los dátiles no tengan huesos y pesa 350 g. Ponlos en el procesador con 42 g de cacao sin azúcar. Procesa hasta que se forme una pasta; al principio puede juntarse en una bola espesa.",
+      "Detén y desconecta el procesador antes de abrirlo o acercar la espátula. Separa la bola de pasta y baja lo adherido a las paredes. Cierra y vuelve a procesar hasta que la pasta esté más repartida.",
+      "Incorpora los 480 ml de crema de coco en varias adiciones pequeñas. Entre adiciones procesa y vuelve a bajar las paredes con el aparato detenido. Continúa hasta conseguir una crema espesa de chocolate, sin grandes trozos de dátil.",
+      "Para una textura más lisa, pasa la mezcla por un colador sobre un bowl, presionando con una espátula o cuchara. Divide en 4 vasitos y alisa las superficies con el dorso de una cuchara.",
+      "Tapa y refrigera hasta que esté firme y fría. La fuente no da un tiempo exacto de cuajado: comprueba la textura antes de servir; no cuentes solo los 25 minutos de preparación."
+    ],
+    "equipment": [
+      "nevera",
+      "procesador",
+      "espátula",
+      "colador",
+      "bowl",
+      "vasitos individuales"
+    ],
+    "alternatives": [
+      {
+        "equipment": "vasitos individuales",
+        "alternative": "Sirve en tazas pequeñas o recipientes de vidrio aptos para alimentos."
+      }
+    ],
+    "substitutions": [
+      "La crema de coco debe ser sin azúcar. No se sustituye aquí por leche de coco ligera, ya que cambia la consistencia."
+    ],
+    "storage": "La fuente indica hasta 5 días tapada en nevera y permite congelación. Tras congelar, descongela en la nevera para recuperar una textura de mousse; recién sacada del congelador queda mucho más firme.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "dátil Medjool sin hueso",
+      "crema de coco en lata"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-chocolate-mousse/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ds-vegan-chocolate-mousse.jpg",
+    "video": null,
+    "mediaNote": "La ficha original no publica un archivo de video directo descargable; se incluye su fotografía y el enlace original.",
+    "waitNote": "Planifica una noche previa para enfriar las latas y refrigeración posterior hasta que la mousse esté firme."
+  },
+  {
+    "id": "ds-vegan-rice-pudding",
+    "title": "Arroz con leche de coco",
+    "category": "Postre",
+    "description": "Arroz cremoso con leche de coco, vainilla y canela. Rinde unas seis tazas para repartir en recipientes.",
+    "servings": 6,
+    "yieldLabel": "6 porciones de aproximadamente 1 taza",
+    "minutes": 65,
+    "activeMinutes": 5,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "arroz basmati",
+        "amount": "¾ taza (150 g), seco",
+        "optional": false
+      },
+      {
+        "name": "leche de coco en lata",
+        "amount": "6⅔ tazas (1600 ml): 4 latas de 400 ml, enteras y sin azúcar",
+        "optional": false
+      },
+      {
+        "name": "agua",
+        "amount": "1 taza (240 ml)",
+        "optional": false
+      },
+      {
+        "name": "azúcar blanca",
+        "amount": "¼ taza (50 g)",
+        "optional": false
+      },
+      {
+        "name": "azúcar morena",
+        "amount": "¼ taza (50 g)",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "extracto de vainilla",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "mantequilla vegana",
+        "amount": "2 cucharadas (30 g)",
+        "optional": false
+      },
+      {
+        "name": "canela molida",
+        "amount": "Una pizca por porción al servir",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Usa una olla grande con espacio libre para que la leche no se desborde. Coloca 150 g de arroz basmati seco, 1600 ml de leche de coco, 240 ml de agua, 50 g de azúcar blanca, 50 g de azúcar morena y ½ cucharadita de sal.",
+      "Calienta a fuego medio, removiendo con cuchara por el fondo para que el azúcar y el arroz no se peguen. Cuando aparezca un hervor claro, baja el fuego al mínimo: deben quedar burbujas suaves, no un hervor fuerte.",
+      "Tapa y cocina a fuego muy bajo alrededor de 50 minutos. Destapa a intervalos para remover hasta el fondo y vuelve a tapar. Si sube mucha espuma, baja más el fuego y deja la tapa ligeramente entreabierta.",
+      "Comprueba que el grano esté blando y que el líquido tenga aspecto de crema espesa. Si el arroz sigue duro, continúa cocinando suavemente y comprobando. La mezcla espesará un poco más al enfriarse.",
+      "Retira del fuego e incorpora ½ cucharadita de vainilla y 30 g de mantequilla vegana hasta que se derrita. Sirve tibio o distribuye en recipientes para refrigerar. Añade canela al servir si la deseas."
+    ],
+    "equipment": [
+      "estufa",
+      "olla grande con tapa",
+      "cuchara",
+      "medidores"
+    ],
+    "alternatives": [],
+    "substitutions": [
+      "Usa leche de coco de lata entera sin azúcar, no bebida ligera de cartón: es la base de la cremosidad."
+    ],
+    "storage": "La fuente recomienda guardar las porciones tapadas en la nevera y señala hasta una semana. No se marca como receta para congelar porque la fuente consultada no da instrucciones de congelación.",
+    "freezer": false,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "arroz basmati",
+      "mantequilla vegana"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-rice-pudding/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ds-vegan-rice-pudding.jpg",
+    "video": "assets/ds-vegan-rice-pudding.mp4",
+    "mediaNote": "Video original descargado para consultar sin conexión.",
+    "waitNote": ""
+  },
+  {
+    "id": "ds-vegan-lemon-bars",
+    "title": "Cuadritos de limón amarillo",
+    "category": "Postre",
+    "description": "Base de galleta y relleno espeso de limón, sin huevo. Necesitan enfriarse y refrigerarse varias horas antes de cortar.",
+    "servings": 24,
+    "yieldLabel": "24 cuadrados",
+    "minutes": 65,
+    "activeMinutes": 30,
+    "difficulty": "Media",
+    "ingredients": [
+      {
+        "name": "harina de trigo",
+        "amount": "2 tazas (250 g), para la base",
+        "optional": false
+      },
+      {
+        "name": "azúcar blanca",
+        "amount": "½ taza (100 g), para la base, y 2 tazas (400 g), para el relleno",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "½ cucharadita para la base y ¼ cucharadita para el relleno",
+        "optional": false
+      },
+      {
+        "name": "mantequilla vegana",
+        "amount": "1 taza (225 g)",
+        "optional": false
+      },
+      {
+        "name": "limón amarillo",
+        "amount": "1 taza (240 ml) de jugo recién exprimido; unos 4 limones grandes",
+        "optional": false
+      },
+      {
+        "name": "extracto de limón",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "crema de coco en lata",
+        "amount": "1 lata (400 ml), sin azúcar",
+        "optional": false
+      },
+      {
+        "name": "maicena",
+        "amount": "½ taza (64 g)",
+        "optional": false
+      },
+      {
+        "name": "cúrcuma molida",
+        "amount": "⅛ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "azúcar glas",
+        "amount": "Una capa fina al servir",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C / 350 °F. Engrasa un molde rectangular de unos 23 × 33 cm y fórralo con papel para hornear dejando bordes largos a los lados para levantar el postre frío.",
+      "Para la base, mezcla 250 g de harina, 100 g de azúcar y ½ cucharadita de sal en un bowl. Añade 225 g de mantequilla vegana. Con manos limpias, deshaz la grasa dentro de la harina hasta formar migas y luego una masa que se una al apretarla.",
+      "Extiende esa masa sobre toda la base del molde, presionando para formar una capa de grosor parejo. Hornea 20 minutos, hasta que los bordes empiecen a dorarse. Retira con guantes y deja el horno encendido.",
+      "En una olla mezcla 240 ml de jugo de limón amarillo, 400 g de azúcar, 1 cucharadita de extracto de limón, ¼ cucharadita de sal, 400 ml de crema de coco, 64 g de maicena y ⅛ cucharadita de cúrcuma. Empieza a mezclar en frío para disolver la maicena sin grumos.",
+      "Calienta a fuego medio removiendo continuamente, primero con batidor y luego con cuchara. Raspa el fondo y las esquinas de la olla. Cuando el relleno se vuelva claramente muy espeso, retira del fuego: no lo dejes quieto porque puede pegarse.",
+      "Vierte el relleno espeso sobre la base horneada y alisa con espátula. Devuelve el molde al horno a 180 °C y hornea 15 minutos más.",
+      "Pon el molde en una rejilla durante aproximadamente 1 hora para que pierda el calor. Después lleva a la nevera al menos 2 horas, hasta estar completamente frío y firme; dejarlo toda la noche facilita el corte.",
+      "Levanta el postre por los bordes del papel, colócalo en una tabla y corta 24 cuadrados con un cuchillo limpio. Si quieres, espolvorea azúcar glas al servir. No cortes mientras el relleno siga tibio."
+    ],
+    "equipment": [
+      "horno",
+      "estufa",
+      "bowl",
+      "olla",
+      "batidor manual",
+      "molde rectangular de 23 × 33 cm",
+      "papel para hornear",
+      "espátula",
+      "nevera"
+    ],
+    "alternatives": [],
+    "substitutions": [
+      "Esta ficha conserva limón amarillo y extracto de limón de la fuente. No se da por equivalente una taza de limón criollo, que puede cambiar la acidez y el sabor."
+    ],
+    "storage": "La fuente indica alrededor de una semana en nevera, tapados. Permite congelar los cuadrados en un recipiente apto para congelador; descongela en la nevera y sirve frío.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "mantequilla vegana",
+      "limón amarillo",
+      "extracto de limón",
+      "crema de coco en lata"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-lemon-bars/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ds-vegan-lemon-bars.jpg",
+    "video": null,
+    "mediaNote": "La ficha original no publica un archivo de video directo descargable; se incluye su fotografía y el enlace original.",
+    "waitNote": "Además de los 65 minutos de preparación/horno, requiere cerca de 1 hora de enfriado y al menos 2 horas de nevera; mejor de un día para otro."
+  },
+  {
+    "id": "ds-soft-chewy-vegan-chocolate-chip-cookies",
+    "title": "Galletas con chispas de chocolate",
+    "category": "Postre",
+    "description": "Galletas de bordes firmes y centro suave, con chocolate sin lácteos. Rinden una tanda grande para congelar.",
+    "servings": 20,
+    "yieldLabel": "20 galletas",
+    "minutes": 32,
+    "activeMinutes": 20,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "mantequilla vegana",
+        "amount": "½ taza (112 g), blanda",
+        "optional": false
+      },
+      {
+        "name": "azúcar morena",
+        "amount": "1 taza (200 g)",
+        "optional": false
+      },
+      {
+        "name": "leche de soya",
+        "amount": "¼ taza (60 ml)",
+        "optional": false
+      },
+      {
+        "name": "extracto de vainilla",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "harina de trigo",
+        "amount": "2 tazas (250 g)",
+        "optional": false
+      },
+      {
+        "name": "bicarbonato de sodio",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "polvo de hornear",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "maicena",
+        "amount": "2 cucharaditas",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "chispas de chocolate veganas",
+        "amount": "1 taza (175 g)",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Pon 112 g de mantequilla vegana blanda y 200 g de azúcar morena en un bowl. Bate con batidora hasta obtener una mezcla cremosa. Añade 60 ml de leche de soya y 1 cucharada de vainilla y vuelve a mezclar.",
+      "En otro bowl mezcla 250 g de harina, 1 cucharadita de bicarbonato, 1 cucharadita de polvo de hornear, 2 cucharaditas de maicena y ½ cucharadita de sal. Reparte bien los polvos antes de añadirlos a la crema.",
+      "Agrega los ingredientes secos al bowl húmedo y mezcla a mano con cuchara resistente o espátula; deja de usar la batidora en este paso. Se formará una masa de galleta espesa. Incorpora 175 g de chispas de chocolate hasta distribuirlas.",
+      "Precalienta el horno a 180 °C / 350 °F. Forra una bandeja con papel para hornear. Divide la masa en unas 20 porciones similares, haz bolas con las manos y colócalas separadas, dejando espacio para que se expandan.",
+      "Hornea de 10 a 12 minutos. Los bordes deben estar firmes y la parte superior apenas dorada; el centro seguirá blando. No esperes a que toda la galleta esté dura dentro del horno.",
+      "Saca la bandeja usando guantes y deja que las galletas se enfríen sobre ella: al enfriarse se vuelven más firmes. Muévelas a un recipiente solo cuando estén frías. Se omiten las chispas decorativas adicionales de la fuente para mantener una cantidad definida."
+    ],
+    "equipment": [
+      "horno",
+      "bowl",
+      "batidora eléctrica",
+      "espátula",
+      "bandeja de horno",
+      "papel para hornear"
+    ],
+    "alternatives": [
+      {
+        "equipment": "batidora eléctrica",
+        "alternative": "Puedes ablandar la mantequilla a temperatura ambiente y batirla con cuchara resistente; requiere más esfuerzo y puede cambiar algo la textura."
+      }
+    ],
+    "substitutions": [
+      "La fuente permite otra bebida vegetal en lugar de soya.",
+      "No uses chispas de chocolate con leche, mantequilla láctea o suero en sus ingredientes."
+    ],
+    "storage": "La fuente permite congelar las galletas horneadas hasta 3 meses. Guárdalas completamente frías en un recipiente hermético; en nevera también deben permanecer tapadas.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "mantequilla vegana",
+      "chispas de chocolate veganas"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/soft-chewy-vegan-chocolate-chip-cookies/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ds-soft-chewy-vegan-chocolate-chip-cookies.jpg",
+    "video": "assets/ds-soft-chewy-vegan-chocolate-chip-cookies.mp4",
+    "mediaNote": "Video original descargado para consultar sin conexión.",
+    "waitNote": "Añade el tiempo de enfriamiento sobre la bandeja antes de guardar."
+  },
+  {
+    "id": "ds-vegan-apple-crisp",
+    "title": "Manzana al horno con crumble de avena",
+    "category": "Postre",
+    "description": "Manzana ácida tierna bajo una capa crujiente de avena y canela. Se sirve en porciones con cuchara.",
+    "servings": 8,
+    "yieldLabel": "8 porciones",
+    "minutes": 65,
+    "activeMinutes": 15,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "manzana verde",
+        "amount": "8 tazas (1 kg), pelada, sin corazón y cortada en cubos; tipo Granny Smith",
+        "optional": false
+      },
+      {
+        "name": "azúcar morena",
+        "amount": "½ taza (100 g) para las manzanas y 1 taza (200 g) para la cobertura",
+        "optional": false
+      },
+      {
+        "name": "harina de trigo",
+        "amount": "¼ taza (31 g) para las manzanas y 1 taza (125 g) para la cobertura",
+        "optional": false
+      },
+      {
+        "name": "canela molida",
+        "amount": "1 cucharadita para las manzanas y 1 cucharadita para la cobertura",
+        "optional": false
+      },
+      {
+        "name": "nuez moscada molida",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "¼ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "limón amarillo",
+        "amount": "1 cucharada de jugo",
+        "optional": false
+      },
+      {
+        "name": "extracto de vainilla",
+        "amount": "1 cucharadita para las manzanas y 1 cucharadita para la cobertura",
+        "optional": false
+      },
+      {
+        "name": "avena en hojuelas",
+        "amount": "1½ tazas (150 g)",
+        "optional": false
+      },
+      {
+        "name": "mantequilla vegana",
+        "amount": "¾ taza (170 g), medida antes de derretir",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C / 350 °F y engrasa un molde de unos 23 × 33 cm. Pela las manzanas, retira corazón y semillas y corta cubos de tamaño parecido para que se ablanden a la vez. Mide 1 kg o 8 tazas de cubos.",
+      "Coloca las manzanas en un bowl con 100 g de azúcar morena, 31 g de harina, 1 cucharadita de canela, ½ cucharadita de nuez moscada, ¼ cucharadita de sal, 1 cucharada de jugo de limón y 1 cucharadita de vainilla. Mezcla hasta que todos los cubos tengan una capa de los ingredientes.",
+      "Distribuye esa mezcla en el molde y alisa ligeramente. En otro bowl prepara la cobertura: mezcla 125 g de harina, 150 g de avena en hojuelas, 200 g de azúcar morena y la otra cucharadita de canela.",
+      "Derrite 170 g de mantequilla vegana en intervalos cortos de microondas y añádela a la cobertura con la otra cucharadita de vainilla. Mezcla con cuchara hasta tener migas húmedas y grumos, no una crema líquida.",
+      "Esparce las migas con los dedos limpios por encima de las manzanas, cubriendo la superficie sin comprimirlas mucho. Hornea unos 50 minutos: la parte superior debe estar dorada y el jugo de manzana debe burbujear en los bordes.",
+      "Retira el molde con guantes y espera 10 minutos antes de servir con cuchara en 8 porciones. Esta ficha no incluye helado ni crema adicional que puedan aparecer en la foto."
+    ],
+    "equipment": [
+      "horno",
+      "microondas",
+      "bowl",
+      "cuchillo",
+      "tabla de cortar",
+      "molde rectangular de 23 × 33 cm"
+    ],
+    "alternatives": [
+      {
+        "equipment": "microondas",
+        "alternative": "Derrite la mantequilla vegetal en una olla pequeña a fuego bajo y retira en cuanto se vuelva líquida."
+      }
+    ],
+    "substitutions": [
+      "Mantén avena en hojuelas: esta ficha no da por equivalente la avena instantánea."
+    ],
+    "storage": "La fuente indica hasta 5 días tapado en nevera y hasta 3 meses congelado. Descongela una noche en nevera; recalienta el molde a 180 °C durante 15–20 minutos, hasta que esté caliente en el centro.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "mantequilla vegana",
+      "manzana verde"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/vegan-apple-crisp/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ds-vegan-apple-crisp.jpg",
+    "video": "assets/ds-vegan-apple-crisp.mp4",
+    "mediaNote": "Video original descargado para consultar sin conexión. La foto puede mostrar acompañamientos; helado y crema no forman parte de esta ficha.",
+    "waitNote": "Añade 10 minutos de reposo después del horno."
+  },
+  {
+    "id": "ds-crunchy-vegan-peanut-butter-cookies",
+    "title": "Galletas de mantequilla de maní",
+    "category": "Postre",
+    "description": "Galletas crujientes de maní, con el dibujo clásico de un tenedor. La mantequilla de maní debe ser suave y salada.",
+    "servings": 20,
+    "yieldLabel": "20 galletas",
+    "minutes": 30,
+    "activeMinutes": 15,
+    "difficulty": "Fácil",
+    "ingredients": [
+      {
+        "name": "azúcar blanca",
+        "amount": "1 taza (200 g) para la masa y ¼ taza (50 g) para rebozar",
+        "optional": false
+      },
+      {
+        "name": "mantequilla vegana",
+        "amount": "½ taza (112 g), blanda",
+        "optional": false
+      },
+      {
+        "name": "mantequilla de maní",
+        "amount": "1 taza (250 g), suave y salada",
+        "optional": false
+      },
+      {
+        "name": "extracto de vainilla",
+        "amount": "1 cucharada",
+        "optional": false
+      },
+      {
+        "name": "harina de trigo",
+        "amount": "1½ tazas (190 g)",
+        "optional": false
+      },
+      {
+        "name": "bicarbonato de sodio",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "polvo de hornear",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "leche de soya",
+        "amount": "1 cucharada",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Precalienta el horno a 190 °C / 375 °F. Forra una bandeja con papel para hornear y reserva 50 g de azúcar blanca en un plato para rebozar las bolas al final.",
+      "Bate 112 g de mantequilla vegana blanda con los otros 200 g de azúcar hasta que quede cremoso. Añade 250 g de mantequilla de maní suave y 1 cucharada de vainilla; mezcla hasta distribuirlas.",
+      "En otro bowl combina 190 g de harina, 1 cucharadita de bicarbonato, 1 cucharadita de polvo de hornear y ½ cucharadita de sal. Incorpora estos polvos a la mezcla de maní usando cuchara, sin batidora: al principio tendrá aspecto de migas.",
+      "Añade 1 cucharada de leche de soya y sigue mezclando hasta que la masa pueda juntarse al apretarla. No añadas un chorro grande de leche: la masa debe poder formar bolas y no quedar pegajosa como una crema.",
+      "Divide en unas 20 porciones y forma bolas. Pasa cada bola por el azúcar del plato y colócala en la bandeja dejando separación. Presiona ligeramente con un tenedor, primero en una dirección y después cruzada, sin aplastarla hasta dejarla muy fina.",
+      "Hornea entre 10 y 15 minutos hasta que la superficie se dore. Las galletas estarán blandas al salir; deja que enfríen sobre la bandeja antes de moverlas, porque se endurecen durante el enfriamiento."
+    ],
+    "equipment": [
+      "horno",
+      "bowl",
+      "batidora eléctrica",
+      "bandeja de horno",
+      "papel para hornear",
+      "tenedor"
+    ],
+    "alternatives": [
+      {
+        "equipment": "batidora eléctrica",
+        "alternative": "Mezcla con cuchara resistente usando mantequilla vegetal blanda; requiere más esfuerzo y la textura puede variar."
+      }
+    ],
+    "substitutions": [
+      "La fuente permite otra bebida vegetal en vez de soya.",
+      "Comprueba que la mantequilla de maní no contenga miel ni ingredientes lácteos."
+    ],
+    "storage": "La fuente permite congelar las galletas horneadas hasta 3 meses. Guarda completamente frías en un recipiente hermético. También se pueden guardar tapadas en la nevera.",
+    "freezer": true,
+    "availability": "Algunos especiales",
+    "specialIngredients": [
+      "mantequilla vegana"
+    ],
+    "source": {
+      "url": "https://lovingitvegan.com/crunchy-vegan-peanut-butter-cookies/",
+      "author": "Alison Andrews",
+      "name": "Loving It Vegan"
+    },
+    "image": "assets/ds-crunchy-vegan-peanut-butter-cookies.jpg",
+    "video": "assets/ds-crunchy-vegan-peanut-butter-cookies.mp4",
+    "mediaNote": "Video original descargado para consultar sin conexión.",
+    "waitNote": "Añade enfriamiento en la bandeja antes de mover o guardar."
+  }
+]

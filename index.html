@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#234c35">
+  <meta name="description" content="Tu recetario vegano, tu despensa y algo rico por cocinar. Una aplicación privada y local.">
+  <title>Verde a mano · Tu recetario vegano</title>
+  <link rel="icon" href="assets/leaf.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="data/catalog.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Ir al contenido</a>
+  <aside class="sidebar">
+    <a class="brand" href="#recetario" aria-label="Verde a mano, inicio"><span class="brand-icon" aria-hidden="true">❧</span><span>verde<span class="brand-sub">a mano</span></span></a>
+    <div class="sidebar-label">TU COCINA, A TU RITMO</div>
+    <nav aria-label="Secciones principales">
+      <a href="#recetario" data-nav="recetario"><span aria-hidden="true">▦</span>Recetario<span class="nav-count" id="catalog-count"></span></a>
+      <a href="#pinterest" data-nav="pinterest"><span aria-hidden="true">Ⓟ</span>Mi tablero<span class="nav-count" id="board-count"></span></a>
+      <a href="#cocinar" data-nav="cocinar"><span aria-hidden="true">♧</span>Qué puedo cocinar</a>
+      <a href="#despensa" data-nav="despensa"><span aria-hidden="true">▤</span>Mi despensa<span class="nav-count" id="pantry-count"></span></a>
+      <a href="#utensilios" data-nav="utensilios"><span aria-hidden="true">♧</span>Mis utensilios</a>
+      <a href="#compras" data-nav="compras"><span aria-hidden="true">⌑</span>Lista de compras<span class="nav-count" id="shopping-count"></span></a>
+    </nav>
+    <div class="sidebar-bottom">
+      <div class="little-leaf" aria-hidden="true">❧</div>
+      <strong>Un poquito de organización.<br>Mucho por disfrutar.</strong>
+      <p>100% vegetal. Hecho para cocinar en casa.</p>
+      <button class="text-button" id="backup-open">Copia de seguridad <span aria-hidden="true">↗</span></button>
+      <small>Guardado en este navegador</small>
+    </div>
+  </aside>
+  <div class="workspace">
+    <header class="topbar"><span id="breadcrumb">Mi cocina / Recetario</span><div><span class="local-status"><i></i> Mi espacio local</span><button class="text-button mobile-backup" id="backup-open-mobile" aria-label="Copia de seguridad">Copia</button><span class="avatar" aria-label="Cocina personal">N</span></div></header>
+    <main id="main" tabindex="-1"></main>
+    <footer class="footer"><span>verde a mano</span> · Una receta a la vez.<span>Hecho para tu cocina en RD</span></footer>
+  </div>
+  <dialog id="recipe-dialog" aria-label="Detalle de la receta"></dialog>
+  <dialog id="backup-dialog" aria-labelledby="backup-title">
+    <button class="close-dialog" data-close="backup-dialog" aria-label="Cerrar">×</button>
+    <span class="eyebrow">TU COCINA, CONTIGO</span>
+    <h2 id="backup-title">Guarda una copia</h2>
+    <p>La despensa, tus utensilios, favoritos y lista de compras se guardan en este navegador. Exporta una copia antes de borrar sus datos o cambiar de navegador.</p>
+    <button class="button primary" id="export-backup">Descargar copia de seguridad</button>
+    <label class="import-label" for="import-backup">Restaurar una copia guardada</label>
+    <input id="import-backup" type="file" accept="application/json,.json">
+    <p class="muted small">Restaurar reemplaza tus selecciones actuales. Las recetas, fotos y videos permanecen en la carpeta de la aplicación.</p>
+    <p id="backup-message" role="status"></p>
+  </dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <noscript>Activa JavaScript para consultar el recetario y guardar tu despensa.</noscript>
+</body>
+</html>

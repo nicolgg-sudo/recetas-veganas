@@ -1,0 +1,260 @@
+[
+  {
+    "id": "pt-640777853282491657",
+    "title": "Falafel de garbanzos secos en freidora de aire",
+    "category": "Almuerzo",
+    "description": "Falafel con perejil y especias, preparado con garbanzos secos remojados. La fuente ofrece varias cocciones; aquí se desarrolla la freidora de aire.",
+    "servings": 24,
+    "yieldLabel": "24 falafel",
+    "minutes": 40,
+    "activeMinutes": 20,
+    "difficulty": "Media",
+    "ingredients": [
+      {
+        "name": "garbanzo seco",
+        "amount": "2 tazas, medidas antes del remojo",
+        "optional": false
+      },
+      {
+        "name": "agua",
+        "amount": "suficiente para cubrir ampliamente los garbanzos durante el remojo",
+        "optional": false
+      },
+      {
+        "name": "perejil fresco",
+        "amount": "1 taza, de hoja plana",
+        "optional": false
+      },
+      {
+        "name": "menta fresca",
+        "amount": "½ taza de hojas; se puede usar cilantro en su lugar",
+        "optional": true
+      },
+      {
+        "name": "cebolla",
+        "amount": "1 unidad, blanca o amarilla",
+        "optional": false
+      },
+      {
+        "name": "ajo",
+        "amount": "6 dientes, picados",
+        "optional": false
+      },
+      {
+        "name": "semilla de cilantro molida",
+        "amount": "2 cucharaditas",
+        "optional": false
+      },
+      {
+        "name": "comino molido",
+        "amount": "1½ cucharaditas",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "1½ cucharaditas",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra molida",
+        "amount": "¼ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "pimienta de cayena",
+        "amount": "¼ cucharadita; la fuente permite ají seco en hojuelas",
+        "optional": false
+      },
+      {
+        "name": "polvo de hornear",
+        "amount": "2 cucharaditas",
+        "optional": false
+      },
+      {
+        "name": "aceite de oliva",
+        "amount": "1 cucharada, para pincelar la cesta y los falafel",
+        "optional": false
+      },
+      {
+        "name": "harina de garbanzo",
+        "amount": "1–2 cucharadas, solo si la mezcla se deshace; la fuente también permite harina de trigo",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "El día anterior, mide 2 tazas de garbanzos secos, ponlos en un bowl grande y cúbrelos con abundante agua. Llévalos a la nevera entre 24 y 48 horas: se hinchan al hidratarse, por lo que deben seguir cubiertos. Después escurre, enjuaga y deja que salga el exceso de agua. No los hiervas ni los sustituyas por garbanzos de lata en esta receta.",
+      "Lava las hierbas. Pela y corta la cebolla en trozos y pica los 6 dientes de ajo. Introduce en el procesador 1 taza de perejil, la ½ taza de menta opcional, la cebolla y el ajo. Añade 2 cucharaditas de cilantro molido, 1½ de comino, 1½ de sal, ¼ de pimienta negra y ¼ de cayena. Tritura para picarlos y repartir las especias.",
+      "Agrega los garbanzos escurridos y 2 cucharaditas de polvo de hornear. Procesa hasta obtener una mezcla fina pero todavía granulosa: no debe quedar un puré liso como hummus. Detén y desconecta el procesador antes de bajar lo adherido a las paredes con una espátula.",
+      "Tapa la mezcla y refrigérala 30 minutos antes de formar los falafel. Toma una porción y apriétala entre las manos; si se deshace y no mantiene la forma, incorpora 1 cucharada de harina de garbanzo o trigo. Comprueba otra vez y añade una segunda cucharada solo si hace falta. Esta harina es un ajuste opcional descrito por la fuente, no se añade automáticamente.",
+      "Divide y da forma a unos 24 falafel pequeños, aplanados como tortitas. Una cuchara para helado ayuda a porcionar, pero puedes hacerlo con una cuchara y las manos. Colócalos sobre una bandeja o plato mientras preparas la freidora.",
+      "Precalienta la freidora de aire a 200 °C / 400 °F. Con la cucharada de aceite de oliva, engrasa ligeramente la cesta y pincela la superficie de los falafel. Coloca una sola capa, dejando espacio entre piezas; si no caben, cocina varias tandas.",
+      "Cocina de 12 a 15 minutos, hasta que se vean dorados y crujientes. Retíralos con una espátula o pinzas con cuidado de no romperlos. Deja que baje un poco el calor antes de servir. La fuente calcula 40 minutos de preparación/cocción, aparte del remojo y del reposo en la nevera; hacer varias tandas puede aumentar el tiempo."
+    ],
+    "equipment": [
+      "freidora de aire",
+      "procesador",
+      "bowl",
+      "colador",
+      "cuchillo",
+      "tabla de cortar",
+      "medidores",
+      "espátula",
+      "recipiente con tapa",
+      "nevera"
+    ],
+    "alternatives": [
+      {
+        "equipment": "cuchara para helado",
+        "alternative": "Usa una cuchara común para dividir y las manos para dar forma; no es un equipo indispensable."
+      },
+      {
+        "equipment": "freidora de aire",
+        "alternative": "La misma fuente permite horno a 180 °C durante unos 30 minutos, en bandeja con papel para hornear y pincelados con aceite; se pueden voltear a mitad de cocción. El tiempo de esa variante es mayor que el de la freidora."
+      }
+    ],
+    "substitutions": [
+      "La menta es opcional y puede sustituirse por cilantro fresco en la misma cantidad.",
+      "La cayena puede cambiarse por ají seco en hojuelas según la fuente.",
+      "Si la mezcla no mantiene forma, la fuente permite 1–2 cucharadas de harina de garbanzo o de trigo. No sustituir los garbanzos secos remojados por garbanzos de lata."
+    ],
+    "storage": "Según la fuente, los falafel ya cocinados se conservan en recipiente cerrado hasta 4 días en la nevera o hasta 3 meses congelados. Recalienta en horno o freidora hasta que estén calientes por dentro y recuperen el exterior crujiente. La mezcla cruda también se puede congelar ya formada hasta 3 meses.",
+    "freezer": true,
+    "availability": "Habituales",
+    "specialIngredients": [],
+    "source": {
+      "url": "https://theplantbasedschool.com/falafel/",
+      "author": "Nico Pallotta",
+      "name": "The Plant Based School"
+    },
+    "pinterestUrl": "https://uk.pinterest.com/pin/640777853282491657/",
+    "collection": "Mi tablero de Pinterest",
+    "image": "assets/pt-640777853282491657.jpg",
+    "video": "assets/pt-640777853282491657.mp4",
+    "mediaNote": "Video del pin descargado para consulta local. Se conserva el enlace de Pinterest y el de la fuente cuando está disponible.",
+    "waitNote": "Planifica 24–48 horas de remojo en la nevera y 30 minutos de reposo de la mezcla. Estas esperas no están incluidas en los 40 minutos de preparación y cocción indicados por la fuente.",
+    "adaptationNote": "La ficha desarrolla el método en freidora de aire, uno de los métodos de la fuente. El video del pin menciona bicarbonato en el remojo, pero la receta escrita actual no lo exige: se sigue la receta escrita vigente y no se añade ese ingrediente.",
+    "evidence": [
+      "research/pt-640777853282491657-source.txt",
+      "research/pt-640777853282491657-schema.json",
+      "research/pt-640777853282491657.vtt"
+    ],
+    "adaptationKind": "source"
+  },
+  {
+    "id": "pt-640777853282491583",
+    "title": "Coliflor buffalo al horno",
+    "category": "Snack",
+    "description": "Bocados de coliflor cubiertos con una masa de especias y una salsa picante con mantequilla vegana. Cantidades y temperaturas leídas en los rótulos del video.",
+    "servings": 1,
+    "yieldLabel": "1 tanda de una coliflor grande; la fuente no indica raciones",
+    "minutes": 40,
+    "activeMinutes": 15,
+    "difficulty": "Media",
+    "ingredients": [
+      {
+        "name": "coliflor",
+        "amount": "1 cabeza grande, cortada en floretes",
+        "optional": false
+      },
+      {
+        "name": "harina de trigo",
+        "amount": "¾ taza; el video solo indica «flour» y no especifica variedad",
+        "optional": false
+      },
+      {
+        "name": "leche de almendra",
+        "amount": "¾ taza",
+        "optional": false
+      },
+      {
+        "name": "ajo en polvo",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "pimentón dulce",
+        "amount": "1 cucharadita",
+        "optional": false
+      },
+      {
+        "name": "sal",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "pimienta negra molida",
+        "amount": "½ cucharadita",
+        "optional": false
+      },
+      {
+        "name": "mantequilla vegana",
+        "amount": "3 cucharadas, derretidas, para la salsa buffalo",
+        "optional": false
+      },
+      {
+        "name": "salsa picante vegana",
+        "amount": "¾ taza, para la salsa buffalo; comprobar ingredientes del envase",
+        "optional": false
+      }
+    ],
+    "steps": [
+      "Enciende el horno a 230 °C / 450 °F. Prepara una bandeja con papel para hornear. Lava una coliflor grande y córtala en floretes de tamaño parecido para que se cocinen a la vez; escurre y seca el exceso de agua antes de cubrirlos.",
+      "En un bowl grande pon ¾ taza de harina, ¾ taza de leche de almendra, 1 cucharadita de ajo en polvo, 1 cucharadita de pimentón, ½ cucharadita de sal y ½ cucharadita de pimienta. Bate con un batidor manual hasta que no veas grumos de harina seca. Debe quedar una masa que se adhiera a la coliflor.",
+      "Sumerge los floretes en la masa, gíralos para cubrirlos y deja escurrir el exceso sobre el bowl. Colócalos en la bandeja sin amontonarlos. Hornea 20 minutos a 230 °C / 450 °F, como indica el primer rótulo de cocción del video.",
+      "Mientras se hornean, derrite 3 cucharadas de mantequilla vegana en una ollita o sartén a fuego bajo. Agrega ¾ taza de salsa picante y remueve hasta obtener una mezcla uniforme. Comprueba que ambos productos sean veganos; la receta del video utiliza explícitamente mantequilla vegana.",
+      "Saca la bandeja con guantes. Con pinzas, sumerge cada florete horneado en la salsa buffalo y vuelve a colocarlo en la bandeja. Cúbrelos por completo, evitando que queden montones de salsa libre alrededor.",
+      "Hornea otros 5 minutos a la misma temperatura. La cubierta debe verse adherida y la coliflor tierna al pinchar el tallo de un florete. Deja que pierda el calor más intenso antes de comer. El video propone un dip vegano para servir, pero esta ficha termina en la coliflor y no exige comprar ni preparar un dip adicional."
+    ],
+    "equipment": [
+      "horno",
+      "bandeja de horno",
+      "papel para hornear",
+      "bowl",
+      "batidor manual",
+      "cuchillo",
+      "tabla de cortar",
+      "medidores",
+      "pinzas",
+      "estufa",
+      "caldero"
+    ],
+    "alternatives": [
+      {
+        "equipment": "batidor manual",
+        "alternative": "Usa un tenedor para integrar la masa, deshaciendo los grumos antes de cubrir la coliflor."
+      },
+      {
+        "equipment": "caldero pequeño",
+        "alternative": "Una sartén pequeña sirve para derretir la mantequilla y mezclar la salsa a fuego bajo."
+      }
+    ],
+    "substitutions": [
+      "El dip que se ve al servir en el video es opcional y no forma parte de esta ficha. Si lo añades, debe ser vegano.",
+      "No se ha verificado una versión para freidora de aire: usa el horno y los tiempos indicados en el video."
+    ],
+    "storage": "El video no especifica plazos de conservación ni congelación. Está pensado para servir recién horneado. Si sobra, guarda en un recipiente cerrado en la nevera y recalienta hasta que esté caliente por dentro; la cubierta puede perder textura.",
+    "freezer": false,
+    "availability": "Habituales",
+    "specialIngredients": [],
+    "source": {
+      "url": "https://uk.pinterest.com/pin/640777853282491583/",
+      "author": "@rawmanda (creadora del video)",
+      "name": "Pinterest · video de @rawmanda",
+      "sharedBy": "Edith Tapia en Pinterest"
+    },
+    "pinterestUrl": "https://uk.pinterest.com/pin/640777853282491583/",
+    "collection": "Mi tablero de Pinterest",
+    "image": "assets/pt-640777853282491583.jpg",
+    "video": "assets/pt-640777853282491583.mp4",
+    "mediaNote": "Video del pin descargado para consulta local. Se conserva el enlace de Pinterest y el de la fuente cuando está disponible.",
+    "adaptationNote": "El video especifica 20 + 5 minutos de horno a 450 °F. El total de 40 minutos y los 15 minutos de trabajo son estimaciones editoriales para medir, cortar y cubrir, no tiempos declarados por la creadora. El rendimiento se registra como una tanda porque el video no indica raciones. El rótulo dice «flour» sin variedad: esta ficha propone harina de trigo común. Se omite el dip de acompañamiento, cuya receta no aparece.",
+    "evidence": [
+      "research/pt-640777853282491583-schema.json",
+      "research/pt-640777853282491583.vtt",
+      "research/pt-buffalo-7.jpg",
+      "research/pt-buffalo-19.jpg",
+      "research/pt-buffalo-28.jpg"
+    ],
+    "adaptationKind": "source"
+  }
+]
